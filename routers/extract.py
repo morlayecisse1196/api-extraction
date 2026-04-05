@@ -2,6 +2,7 @@
 routers/extract.py
 ───────────────────
 Endpoint principal :  POST /api/v1/extract
+.......
 
 Accepte :
   - Une image (UploadFile)
