@@ -1,0 +1,36 @@
+# Dossier des modèles (trop lourd)
+models/
+
+# Archives
+version1_api.zip
+
+# Fichiers sensibles (credentials)
+fichier-cles.json
+.env
+.env.local
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Environnement
+.env
+.env.local
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+dist/
+build/

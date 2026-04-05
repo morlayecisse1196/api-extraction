@@ -1,0 +1,6197 @@
+{
+  "id": 101,
+  "data": {
+    "image": "/data/local-files/?d=02_IMAGES_BRUTES/Page_01/CamScanner 19-03-2026 22.29_1.jpg"
+  },
+  "annotations": [
+    {
+      "id": 15,
+      "result": [
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.9086754185892718,
+            "y": 12.601810922230545,
+            "width": 18.07434114925315,
+            "height": 2.5378803567194215,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "e3738aea",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.45554105396173,
+            "y": 13.014151769375173,
+            "width": 3.222556949091647,
+            "height": 2.0498264419656866,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "5da39d5b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.510036045721982,
+            "y": 17.190895455629164,
+            "width": 58.607060211201755,
+            "height": 2.1522877945566137,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "33a0e30d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.66798898715366,
+            "y": 17.769880205610853,
+            "width": 58.607060211201755,
+            "height": 2.1522877945566137,
+            "rotation": 0,
+            "text": [
+              "Tacque, camara"
+            ]
+          },
+          "id": "58f2392c",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.45673314541443,
+            "y": 15.451198285513268,
+            "width": 3.3199337610355393,
+            "height": 1.2585812433104309,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "9b9127ab",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.14149766320772,
+            "y": 13.68470613806885,
+            "width": 3.4350769050107943,
+            "height": 1.7658425234944135,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "a678a005",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.809681583364274,
+            "y": 15.668317566756413,
+            "width": 4.164717688146311,
+            "height": 1.9342799929390628,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "0fcacc24",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 63.21905317085268,
+            "y": 15.643976660857174,
+            "width": 3.3317741505170417,
+            "height": 1.9342799929390606,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "002fa941",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 40.536585497957375,
+            "y": 15.764381942453351,
+            "width": 20.50541203296148,
+            "height": 2.2244219918799226,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "1fe7fde8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.042474362844903,
+            "y": 13.057689200238693,
+            "width": 11.938857372686078,
+            "height": 2.127707992232967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "6a683763",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.127130051816042,
+            "y": 15.57225319105947,
+            "width": 13.465920525006386,
+            "height": 1.5474239943512451,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3777d156",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.50601418430039,
+            "y": 13.563651232522659,
+            "width": 7.218843992786929,
+            "height": 1.8868974290405978,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "252460a2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.644835666178906,
+            "y": 16.054523941394212,
+            "width": 13.465922966066103,
+            "height": 1.6441379939981997,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "71fe9666",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.96729909018438,
+            "y": 15.546613037260204,
+            "width": 7.912963607477977,
+            "height": 2.127707992232967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "69e02785",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.312507921170084,
+            "y": 17.102285421690112,
+            "width": 60.404732302154564,
+            "height": 2.250361303793852,
+            "rotation": 0,
+            "rectanglelabels": [
+              "enqueteur"
+            ]
+          },
+          "id": "4038f98f",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 40.862024792633946,
+            "y": 13.414025272066851,
+            "width": 14.697408126994826,
+            "height": 2.0490890121316263,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "c91e4213",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.482463387145856,
+            "y": 13.028627797997567,
+            "width": 16.920295841555273,
+            "height": 2.1508474945127203,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "61750a0f",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.660633886704094,
+            "y": 15.334578004391213,
+            "width": 18.367426406951463,
+            "height": 1.706129830690159,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "a90d8eee",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.78320299103408,
+            "y": 15.044963052449573,
+            "width": 12.801539616966188,
+            "height": 2.8694001697970837,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "547239bc",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 22.508570423257883,
+            "y": 19.062221351726123,
+            "width": 6.4564286763829415,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a5300811",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 22.219082187899968,
+            "y": 19.5688330079601,
+            "width": 6.4564286763829415,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "text": [
+              "10"
+            ]
+          },
+          "id": "68a7aad7",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.833153194321156,
+            "y": 18.963956947014665,
+            "width": 6.456428676382946,
+            "height": 2.791848813856621,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "32baba0e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.83315319432116,
+            "y": 19.542941696996355,
+            "width": 6.456428676382945,
+            "height": 2.791848813856621,
+            "rotation": 0,
+            "text": [
+              "02"
+            ]
+          },
+          "id": "781fb40a",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.514076964500866,
+            "y": 19.930698476698662,
+            "width": 12.356268673767346,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "27647441",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.514076964500866,
+            "y": 19.930698476698662,
+            "width": 12.356268673767346,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "text": [
+              "2023"
+            ]
+          },
+          "id": "00e91599",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.811025261020355,
+            "y": 19.56883300796017,
+            "width": 29.387876378937726,
+            "height": 2.2025228074660586,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_visite"
+            ]
+          },
+          "id": "71d4dbfa",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.243035995538537,
+            "y": 17.05624262165962,
+            "width": 12.467586409567055,
+            "height": 1.8612325425710845,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0056df45",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.5527417890229924,
+            "y": 19.393151275241465,
+            "width": 15.584483011958833,
+            "height": 1.5251243568630126,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "994ae7ce",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.0074384887894094,
+            "y": 22.17968779897205,
+            "width": 9.573325278774702,
+            "height": 1.938783898511545,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "323b6dd8",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.6734852813903256,
+            "y": 24.583777924629437,
+            "width": 12.912857352765943,
+            "height": 3.102092407559962,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "2c51cfea",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.5621675455905866,
+            "y": 27.99603949450668,
+            "width": 11.799679994768818,
+            "height": 1.4734757628687731,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "bfae41be",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.890652526861153,
+            "y": 26.445134952648235,
+            "width": 66.56800600822412,
+            "height": 2.946951525737539,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "54bd20f4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.307829166169782,
+            "y": 24.73370237431746,
+            "width": 68.5717252526188,
+            "height": 1.7836830951277003,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6af9830e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.801312665260287,
+            "y": 22.73890964439869,
+            "width": 64.45296902802967,
+            "height": 1.9387838985115438,
+            "rotation": 359.06683555989054,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a308d64c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.033473199552343,
+            "y": 22.412341866793437,
+            "width": 65.12087544282791,
+            "height": 1.938783898511545,
+            "rotation": 0,
+            "rectanglelabels": [
+              "village"
+            ]
+          },
+          "id": "77f940b7",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.890475682111276,
+            "y": 24.55463713730356,
+            "width": 70.92295716836975,
+            "height": 2.153287273848297,
+            "rotation": 0,
+            "rectanglelabels": [
+              "concession_ou_menage"
+            ]
+          },
+          "id": "944333b2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.96858433109128,
+            "y": 26.690801508585633,
+            "width": 67.56849297797393,
+            "height": 3.115932730479721,
+            "rotation": 0,
+            "rectanglelabels": [
+              "identite"
+            ]
+          },
+          "id": "b69eb4b9",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.293111781922796,
+            "y": 27.486905539810465,
+            "width": 67.56849297797393,
+            "height": 3.115932730479721,
+            "rotation": 0,
+            "text": [
+              "NK000211810 Aliou Kante"
+            ]
+          },
+          "id": "e955d25a",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.452848171941625,
+            "y": 31.047962127964013,
+            "width": 66.92954741789846,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "mere"
+            ]
+          },
+          "id": "5b1756f4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.452848171941625,
+            "y": 31.047962127964013,
+            "width": 66.92954741789846,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "8241b8f7",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.494429831828521,
+            "y": 30.936679109584215,
+            "width": 68.52691131808696,
+            "height": 2.782075459494987,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "44138bad",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.17495705179082,
+            "y": 33.45104921615421,
+            "width": 5.431037260640922,
+            "height": 2.225660367595985,
+            "rotation": 0,
+            "rectanglelabels": [
+              "sexe"
+            ]
+          },
+          "id": "d6dfaaf2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.17495705179082,
+            "y": 33.30630302865879,
+            "width": 5.431037260640922,
+            "height": 2.225660367595985,
+            "rotation": 0,
+            "text": [
+              "M"
+            ]
+          },
+          "id": "8e772578",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 14.376275101696564,
+            "y": 33.11720016101481,
+            "width": 6.868664770810582,
+            "height": 3.1159245146343864,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e872bf2d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 34.27516966097819,
+            "width": 27.314922693223473,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_naissance"
+            ]
+          },
+          "id": "2f8a51dd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 34.27516966097819,
+            "width": 27.314922693223473,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "text": [
+              "15/06/1962"
+            ]
+          },
+          "id": "cf3ca877",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.08060559055865,
+            "y": 34.202796567230486,
+            "width": 29.55123215348739,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "650b69c1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.71300870622074,
+            "y": 37.50237719399237,
+            "width": 26.835713523166923,
+            "height": 2.4482264043555872,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_deces"
+            ]
+          },
+          "id": "c9040558",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.71300870622074,
+            "y": 37.50237719399237,
+            "width": 26.835713523166923,
+            "height": 2.4482264043555872,
+            "rotation": 0,
+            "text": [
+              "11/01/2023"
+            ]
+          },
+          "id": "a3bf6ed4",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 37.05724512047318,
+            "width": 27.95386825329887,
+            "height": 3.4497735697737753,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "704e8eb8",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.457702777998625,
+            "y": 30.00127564638043,
+            "width": 5.9102464306974785,
+            "height": 2.1143773492161806,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "8b358569",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.0317201881515152,
+            "y": 33.489959140786304,
+            "width": 7.188137550848284,
+            "height": 1.7805282940767881,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0ad7cf15",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.86411468399635,
+            "y": 33.91875094775611,
+            "width": 17.09179373201703,
+            "height": 2.00309433083639,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "c07eb138",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.85752443446763,
+            "y": 37.06813863150611,
+            "width": 13.417856761583458,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4d744eff",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514200580414716,
+            "y": 40.17316963510756,
+            "width": 12.938647591526909,
+            "height": 3.004641496254578,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "46482389",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.191474452230644,
+            "y": 39.16342978329105,
+            "width": 54.435222595081854,
+            "height": 2.9213666756287306,
+            "rotation": 2.44765953738289,
+            "rectanglelabels": [
+              "repondant"
+            ]
+          },
+          "id": "d3e5e1b0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.890475682111333,
+            "y": 39.961505325226284,
+            "width": 40.73277945480706,
+            "height": 2.55950120689013,
+            "rotation": 0,
+            "text": [
+              "Marie Keita"
+            ]
+          },
+          "id": "6b42ac97",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.785679557208113,
+            "y": 38.978159103928625,
+            "width": 56.0674728966166,
+            "height": 3.338490551393984,
+            "rotation": 2.351229471089141,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "52280cfb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.174035985248267,
+            "y": 43.20287546027204,
+            "width": 52.553272316201806,
+            "height": 1.7805282940767881,
+            "rotation": 0.8641143703807757,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3fa67ada",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.18562762674857,
+            "y": 44.62449037029953,
+            "width": 16.29311178192276,
+            "height": 1.2241132021777972,
+            "rotation": 0,
+            "rectanglelabels": [
+              "age_declare"
+            ]
+          },
+          "id": "b6fb1ef8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.02589123672972,
+            "y": 44.29064131516014,
+            "width": 16.932057341998174,
+            "height": 2.00309433083639,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "527857d4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.14588717385125,
+            "y": 46.493732024673434,
+            "width": 3.034991410358163,
+            "height": 2.2256603675959923,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "96a8c213",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.35976562203005,
+            "y": 46.20968640519905,
+            "width": 2.7155186303204673,
+            "height": 1.5688557683501192,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "efab31b1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.01271073767224,
+            "y": 47.40656582979452,
+            "width": 3.034991410358174,
+            "height": 2.114377349216184,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "b573b4ae",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.75477575564299,
+            "y": 45.84967733430061,
+            "width": 51.11565042359529,
+            "height": 2.114382826446475,
+            "rotation": 0.8601388305601745,
+            "rectanglelabels": [
+              "lieu_deces"
+            ]
+          },
+          "id": "a798a07c",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.5441851250944962,
+            "y": 45.88673086109259,
+            "width": 13.09838398154576,
+            "height": 1.669245275696987,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "34c7189d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.236916862846436,
+            "y": 48.223114856519956,
+            "width": 24.717904702622512,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "b7b13721",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.45795234706444,
+            "y": 49.53506948945455,
+            "width": 41.938435467008794,
+            "height": 1.632242792898496,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_deces_precise"
+            ]
+          },
+          "id": "4b022109",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.106512943709628,
+            "y": 49.53506948945456,
+            "width": 42.64131427371845,
+            "height": 1.4690167060231616,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a473dc97",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.547055487536657,
+            "y": 50.25417689163187,
+            "width": 16.04906608653689,
+            "height": 1.6322407844701772,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d211f5fa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 22.187621171171383,
+            "y": 51.1134150711286,
+            "width": 51.66159229315889,
+            "height": 1.8770769021407077,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cause_declaree"
+            ]
+          },
+          "id": "9a8bd15e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 22.187621171171394,
+            "y": 50.896295789885485,
+            "width": 51.66159229315889,
+            "height": 1.8770769021407077,
+            "rotation": 0,
+            "text": [
+              "Pralysie et chute le jour de dece"
+            ]
+          },
+          "id": "6d7c5764",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 22.339312549412046,
+            "y": 50.73307171143847,
+            "width": 52.59876403543841,
+            "height": 2.2035210421781226,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "b5099baf",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.584472464495424,
+            "y": 52.71367686296953,
+            "width": 35.14394033548221,
+            "height": 2.8456439572882806,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "177a6645",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 39.00977377238529,
+            "y": 53.61910976984525,
+            "width": 40.766970789159416,
+            "height": 1.8770769021406934,
+            "rotation": 0,
+            "rectanglelabels": [
+              "nom_local_maladie"
+            ]
+          },
+          "id": "2926446e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 39.00977377238529,
+            "y": 53.61910976984525,
+            "width": 40.766970789159416,
+            "height": 1.8770769021406934,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3dd6e3d0",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.54118721461671,
+            "y": 53.45588769982667,
+            "width": 41.1184053861124,
+            "height": 1.9586788992225637,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a9ac85a3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.54118721461671,
+            "y": 53.45588769982667,
+            "width": 41.1184053861124,
+            "height": 1.9586788992225637,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_guerisseur"
+            ]
+          },
+          "id": "581d4416",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.2042554088580006,
+            "y": 57.066831778242886,
+            "width": 52.95020343879324,
+            "height": 2.2035250590347317,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "c238be50",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.3972475657632826,
+            "y": 57.28395105948599,
+            "width": 52.95020343879324,
+            "height": 2.2035250590347317,
+            "rotation": 0,
+            "rectanglelabels": [
+              "nom_local_maladie"
+            ]
+          },
+          "id": "c88afcf2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.996874425811419,
+            "y": 60.322074401707425,
+            "width": 52.83319910317593,
+            "height": 2.040300980587723,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "eda3276e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.23356108764239,
+            "y": 57.291651534902996,
+            "width": 10.660358780098086,
+            "height": 3.0196454512698114,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_guerisseur"
+            ]
+          },
+          "id": "80cdd4cc",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.23356108764239,
+            "y": 57.291651534902996,
+            "width": 10.660358780098086,
+            "height": 3.0196454512698114,
+            "rotation": 0,
+            "text": [
+              "OUI"
+            ]
+          },
+          "id": "666d2671",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.76497864964672,
+            "y": 56.88359937249885,
+            "width": 6.443052295027611,
+            "height": 3.754139745283245,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "fdf0e682",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.2080302580455,
+            "y": 56.80197327427716,
+            "width": 4.920153706853988,
+            "height": 3.754159829566306,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "369e733e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99927089858775,
+            "y": 60.80097524679897,
+            "width": 11.128942591351333,
+            "height": 3.346105658733709,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_etablissement"
+            ]
+          },
+          "id": "668459de",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99927089858775,
+            "y": 60.80097524679897,
+            "width": 11.128942591351333,
+            "height": 3.346105658733709,
+            "rotation": 0,
+            "text": [
+              "OUI"
+            ]
+          },
+          "id": "afe26aea",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 74.85659291457716,
+            "y": 60.637745143067,
+            "width": 5.271591050322343,
+            "height": 3.346093608163862,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "720b1906",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99926952533013,
+            "y": 60.88258126073753,
+            "width": 5.62303045367716,
+            "height": 3.1828695297168323,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "f0414df3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.0669528567586184,
+            "y": 64.98473805298191,
+            "width": 26.709394654966488,
+            "height": 3.2643952065230035,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_consultation"
+            ]
+          },
+          "id": "005ad38b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.356441092116541,
+            "y": 64.9123649592342,
+            "width": 26.709394654966488,
+            "height": 3.2643952065230035,
+            "rotation": 0,
+            "text": [
+              "Poste de sante"
+            ]
+          },
+          "id": "43f0be68",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.742923830717933,
+            "y": 68.47557584021284,
+            "width": 26.826539749493804,
+            "height": 3.3460936081638546,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_consultation"
+            ]
+          },
+          "id": "b9ab76c4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.839419909170574,
+            "y": 68.47557584021284,
+            "width": 26.826539749493804,
+            "height": 3.3460936081638546,
+            "rotation": 0,
+            "text": [
+              "clinique"
+            ]
+          },
+          "id": "9f4e455f",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.9435448257826771,
+            "y": 65.0663500922054,
+            "width": 27.295126993891213,
+            "height": 3.1012574904933388,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "16a0855c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.7361638427360948,
+            "y": 68.25845856739807,
+            "width": 27.295130427035357,
+            "height": 3.4277056473873544,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "eba85786",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.417275150437867,
+            "y": 65.57296174843937,
+            "width": 22.374975346923687,
+            "height": 2.938033412046323,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_consultation_etablissement"
+            ]
+          },
+          "id": "bc481399",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.127786915079955,
+            "y": 65.71770793593483,
+            "width": 22.374975346923687,
+            "height": 2.938033412046323,
+            "rotation": 0,
+            "text": [
+              "Bandafassi"
+            ]
+          },
+          "id": "399698b9",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.692868864672356,
+            "y": 69.3086376617692,
+            "width": 21.67209654021405,
+            "height": 2.6931972943757785,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_consultation_etablissement"
+            ]
+          },
+          "id": "d77375a8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.499876707767065,
+            "y": 69.23626456802148,
+            "width": 21.67209654021405,
+            "height": 2.6931972943757785,
+            "rotation": 0,
+            "text": [
+              "Bandafassi"
+            ]
+          },
+          "id": "c30928a2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.66546260713119,
+            "y": 65.32812563076885,
+            "width": 23.07785415363334,
+            "height": 3.3460936081638555,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1b09af42",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.382730239982124,
+            "y": 68.18608547365031,
+            "width": 22.37497534692369,
+            "height": 3.3460936081638555,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1c249dde",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.09475616411934,
+            "y": 65.95330510812954,
+            "width": 24.83505117040746,
+            "height": 2.856421372822794,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_consultation_etablissement"
+            ]
+          },
+          "id": "8dd95073",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.63007185139344,
+            "y": 66.82178223310207,
+            "width": 24.83505117040746,
+            "height": 2.856421372822794,
+            "rotation": 0,
+            "text": [
+              "11/20/22"
+            ]
+          },
+          "id": "2b3d5633",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.705917540513774,
+            "y": 70.1863537322175,
+            "width": 24.95219763819241,
+            "height": 2.3667491374817615,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_consultation_etablissement"
+            ]
+          },
+          "id": "22f43cf3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.302137147165965,
+            "y": 69.53499588848813,
+            "width": 24.95219763819241,
+            "height": 2.3667491374817615,
+            "rotation": 0,
+            "text": [
+              "12/20/2022"
+            ]
+          },
+          "id": "7882b867",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.205641068713284,
+            "y": 65.64533484218708,
+            "width": 25.772222912686978,
+            "height": 3.2644815689403686,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "2e980529",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.453828525406585,
+            "y": 69.14541358332218,
+            "width": 26.006515848256857,
+            "height": 3.2644815689403544,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "682f0c2c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.41353718640542,
+            "y": 73.94050753649893,
+            "width": 5.154444582537408,
+            "height": 3.019645451269824,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "9c737f59",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 74.03656764008258,
+            "y": 73.85889549727543,
+            "width": 6.794495131526588,
+            "height": 3.346093608163841,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "70c2068d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.0620977830506,
+            "y": 73.45083530115788,
+            "width": 13.471843795268185,
+            "height": 3.9173778827284167,
+            "rotation": 0,
+            "rectanglelabels": [
+              "hospitalise"
+            ]
+          },
+          "id": "9ee14389",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.0620977830506,
+            "y": 73.45083530115788,
+            "width": 13.471843795268185,
+            "height": 3.9173778827284167,
+            "rotation": 0,
+            "text": [
+              "NON"
+            ]
+          },
+          "id": "51a14661",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486828493451307,
+            "y": 79.65335028214454,
+            "width": 26.12366300267064,
+            "height": 3.2644815689403512,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "38bc7727",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486828493451307,
+            "y": 79.65335028214454,
+            "width": 26.12366300267064,
+            "height": 3.2644815689403512,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "beca54e9",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486869691181055,
+            "y": 79.49012620369753,
+            "width": 26.475098972881312,
+            "height": 3.5093176866108555,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_hospitalise"
+            ]
+          },
+          "id": "0d2c3be6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 83.32589204720243,
+            "width": 26.00651584825686,
+            "height": 3.019645451269824,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_hospitalise"
+            ]
+          },
+          "id": "ba5bdd7b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 83.08105592953193,
+            "width": 26.943687590536374,
+            "height": 3.3460875828789045,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "7ce95145",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 83.08105592953193,
+            "width": 26.943687590536374,
+            "height": 3.3460875828789045,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "9870ac19",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.10664222072979,
+            "y": 81.2039790273912,
+            "width": 0.8200252744945864,
+            "height": 0.2448361176705447,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "558ea7d7",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.45808162408461,
+            "y": 79.65335028214454,
+            "width": 22.72641475027851,
+            "height": 3.1828695297168395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "112afd38",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.45808162408461,
+            "y": 79.65335028214454,
+            "width": 22.72641475027851,
+            "height": 3.1828695297168395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "8aa380ff",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.575228091869555,
+            "y": 79.57173824292103,
+            "width": 22.726414750278515,
+            "height": 3.4277056473873557,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "095ce5e2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.926667495224386,
+            "y": 83.2442719742657,
+            "width": 22.140682411353797,
+            "height": 2.856429406536066,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "af99ee3e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.926667495224386,
+            "y": 83.2442719742657,
+            "width": 22.140682411353797,
+            "height": 2.856429406536066,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "534ddf16",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.223788688514748,
+            "y": 83.1626679687554,
+            "width": 22.8435557250328,
+            "height": 3.019645451269839,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "21cb6cdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.223788688514748,
+            "y": 83.1626679687554,
+            "width": 22.8435557250328,
+            "height": 3.019645451269839,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "affcd7bf",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.653082245502894,
+            "y": 79.73496232136806,
+            "width": 25.420784882589803,
+            "height": 3.1828715381451502,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "4eac9d24",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.653082245502894,
+            "y": 79.73496232136806,
+            "width": 25.420784882589803,
+            "height": 3.1828715381451502,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "286c3f1a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.65308224550288,
+            "y": 83.16266796875541,
+            "width": 25.303637041547226,
+            "height": 3.3460936081638692,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "99abccc0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.301642842148055,
+            "y": 79.57174426820596,
+            "width": 25.889369380471905,
+            "height": 3.5093116613259783,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d18dffdd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.30164284214807,
+            "y": 83.08105592953191,
+            "width": 25.88936938047192,
+            "height": 3.509317686610885,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6a965e94",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.45156577582775,
+            "y": 74.43017977183997,
+            "width": 30.340935156299675,
+            "height": 1.7138528236936992,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a3d36d8f",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.087603246090923,
+            "y": 76.98016934877903,
+            "width": 26.592248187181568,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d3bafc01",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.01064044729501,
+            "y": 77.33279587204177,
+            "width": 23.07785415363334,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a685236e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.004521648857704,
+            "y": 77.69466134078033,
+            "width": 25.06934410597735,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "15f88389",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.9829799046879875,
+            "y": 86.7535976945898,
+            "width": 29.052324010665323,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4de729d1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "rectanglelabels": [
+              "diagnostic_registre"
+            ]
+          },
+          "id": "a85e1815",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "29f97b7b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "text": [
+              "dysenllere amibience"
+            ]
+          },
+          "id": "90034dd2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.03530391535331,
+            "y": 86.34553749847225,
+            "width": 54.12166811664265,
+            "height": 2.529973215928777,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "cc802be1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.9071342155676487,
+            "y": 89.47605029545163,
+            "width": 20.617778330149587,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d24fb03c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 90.34452742042419,
+            "width": 20.617778330149584,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "diagnostic_registre"
+            ]
+          },
+          "id": "f355b04e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 90.34452742042419,
+            "width": 20.617778330149584,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "text": [
+              "Dysenterie amibienne"
+            ]
+          },
+          "id": "a6d4e4d2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 23.38047134070326,
+            "y": 86.54417076364001,
+            "width": 41.23555666029916,
+            "height": 3.182863504431932,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cause_initiale_cim10"
+            ]
+          },
+          "id": "919fa26d",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.186490573762278,
+            "y": 88.97713911463484,
+            "width": 42.407021338148546,
+            "height": 3.7541638464229337,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d231b204",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.631540501333165,
+            "y": 92.87450063635296,
+            "width": 18.977727781160407,
+            "height": 2.203525059034746,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "32daf25e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.006515848256846,
+            "y": 93.77223306781156,
+            "width": 19.212047495254637,
+            "height": 2.36674913748176,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_jusqua_deces"
+            ]
+          },
+          "id": "ebc95cda",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.006515848256846,
+            "y": 93.77223306781156,
+            "width": 19.212047495254637,
+            "height": 2.36674913748176,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "cb6a1d1a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "ae2822cc",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_jusqua_deces"
+            ]
+          },
+          "id": "ceb9e612",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "text": [
+              "diarrhée"
+            ]
+          },
+          "id": "0fc1ea8d",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486869691181055,
+            "y": 96.46543839590059,
+            "width": 57.284622746836035,
+            "height": 2.3667411037685238,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "57e47e39",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.93644126760967,
+            "y": 95.89414608762277,
+            "width": 11.480353842924188,
+            "height": 2.448361176705262,
+            "rotation": 0,
+            "rectanglelabels": [
+              "si_accident_utilise_cim9"
+            ]
+          },
+          "id": "36c84ee3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.70214833203977,
+            "y": 89.12034683207155,
+            "width": 13.4718437952682,
+            "height": 2.6931972943757927,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "5dcb3e8d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        }
+      ],
+      "created_username": " morlayecis0003@gmail.com, 1",
+      "created_ago": "1 week, 6 days",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "morlayecis0003@gmail.com",
+        "initials": "mo"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2026-03-20T16:10:51.156278Z",
+      "updated_at": "2026-03-20T16:10:51.156278Z",
+      "draft_created_at": "2026-03-20T15:57:37.008542Z",
+      "lead_time": 831.413,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 101,
+      "project": 2,
+      "updated_by": 1,
+      "parent_prediction": 172,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": [
+    {
+      "id": 172,
+      "result": [
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.101667575494552,
+            "y": 13.470288047203082,
+            "width": 18.07434114925315,
+            "height": 2.5378803567194215,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "e3738aea",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.876564583245887,
+            "y": 13.665509613104575,
+            "width": 3.222556949091647,
+            "height": 2.0498264419656866,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "5da39d5b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.57149290870102,
+            "y": 18.0593725806017,
+            "width": 58.607060211201755,
+            "height": 2.1522877945566137,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "33a0e30d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.57149290870102,
+            "y": 18.0593725806017,
+            "width": 58.607060211201755,
+            "height": 2.1522877945566137,
+            "rotation": 0,
+            "text": [
+              "Tacque, camara"
+            ]
+          },
+          "id": "58f2392c",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.68476451779332,
+            "y": 15.95780994174726,
+            "width": 3.6094219963934613,
+            "height": 1.8375659932921096,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "9b9127ab",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.36952903558664,
+            "y": 13.539959950573433,
+            "width": 4.303541611084519,
+            "height": 2.127707992232965,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "a678a005",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.23070511264842,
+            "y": 15.957809941747259,
+            "width": 4.164717688146311,
+            "height": 1.9342799929390626,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "0fcacc24",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 63.02606101394742,
+            "y": 15.861095942100306,
+            "width": 3.3317741505170417,
+            "height": 1.9342799929390608,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "002fa941",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 40.536585497957375,
+            "y": 15.764381942453351,
+            "width": 20.50541203296148,
+            "height": 2.2244219918799226,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "1fe7fde8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.849482205939623,
+            "y": 13.636673950220384,
+            "width": 11.93885737268608,
+            "height": 2.127707992232967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "6a683763",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.127130051816042,
+            "y": 16.151237941041167,
+            "width": 13.465920525006386,
+            "height": 1.5474239943512451,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3777d156",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.50601418430041,
+            "y": 13.346531951279525,
+            "width": 7.21884399278693,
+            "height": 2.321135991526873,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "252460a2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.644835666178906,
+            "y": 16.054523941394212,
+            "width": 13.465922966066103,
+            "height": 1.6441379939981997,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "71fe9666",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.7743069332791,
+            "y": 15.474239943512494,
+            "width": 7.912963607477977,
+            "height": 2.127707992232967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "69e02785",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.312507921170084,
+            "y": 18.11550873415807,
+            "width": 60.404732302154564,
+            "height": 2.250361303793852,
+            "rotation": 0,
+            "rectanglelabels": [
+              "enqueteur"
+            ]
+          },
+          "id": "4038f98f",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 40.862024792633996,
+            "y": 13.052159803328303,
+            "width": 14.69740812699483,
+            "height": 2.7004468558610295,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "c91e4213",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.48246338714587,
+            "y": 13.028627797997569,
+            "width": 16.920295841555294,
+            "height": 2.9469515257375463,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "61750a0f",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.371145651346172,
+            "y": 16.13068203561604,
+            "width": 18.367426406951463,
+            "height": 1.706129830690159,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "a90d8eee",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.78320299103408,
+            "y": 15.044963052449573,
+            "width": 12.801539616966188,
+            "height": 2.8694001697970837,
+            "rotation": 0,
+            "rectanglelabels": [
+              "type_deces"
+            ]
+          },
+          "id": "547239bc",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.92959395254205,
+            "y": 19.930698476698662,
+            "width": 6.4564286763829415,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a5300811",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.92959395254205,
+            "y": 19.930698476698662,
+            "width": 6.4564286763829415,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "text": [
+              "10"
+            ]
+          },
+          "id": "68a7aad7",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.83315319432116,
+            "y": 19.542941696996355,
+            "width": 6.456428676382945,
+            "height": 2.791848813856621,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "32baba0e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.83315319432116,
+            "y": 19.542941696996355,
+            "width": 6.456428676382945,
+            "height": 2.791848813856621,
+            "rotation": 0,
+            "text": [
+              "02"
+            ]
+          },
+          "id": "781fb40a",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.514076964500866,
+            "y": 19.930698476698662,
+            "width": 12.356268673767346,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "27647441",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.514076964500866,
+            "y": 19.930698476698662,
+            "width": 12.356268673767346,
+            "height": 2.1714379663329275,
+            "rotation": 0,
+            "text": [
+              "2023"
+            ]
+          },
+          "id": "00e91599",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.039056633399237,
+            "y": 19.930698476698726,
+            "width": 29.38787637893774,
+            "height": 2.636761369952327,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_visite"
+            ]
+          },
+          "id": "71d4dbfa",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.3395320739911756,
+            "y": 18.069465934127578,
+            "width": 12.467586409567055,
+            "height": 1.8612325425710843,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0056df45",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.2282143381914734,
+            "y": 20.55112077520485,
+            "width": 15.584483011958827,
+            "height": 1.163258888124456,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "994ae7ce",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.0074384887894094,
+            "y": 22.17968779897205,
+            "width": 9.573325278774702,
+            "height": 1.938783898511545,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "323b6dd8",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.6734852813903256,
+            "y": 24.583777924629437,
+            "width": 12.912857352765943,
+            "height": 3.102092407559962,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "2c51cfea",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.5621675455905866,
+            "y": 27.99603949450668,
+            "width": 11.799679994768818,
+            "height": 1.4734757628687731,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "bfae41be",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.697660369955873,
+            "y": 27.530731358863914,
+            "width": 66.56800600822412,
+            "height": 2.946951525737539,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "54bd20f4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 19.36928602914882,
+            "y": 24.661329280569745,
+            "width": 68.5717252526188,
+            "height": 1.7836830951277003,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6af9830e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.590057311296096,
+            "y": 22.489895131230984,
+            "width": 64.45296902802968,
+            "height": 1.9387838985115413,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a308d64c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.033473199552343,
+            "y": 22.412341866793437,
+            "width": 65.12087544282791,
+            "height": 1.938783898511545,
+            "rotation": 0,
+            "rectanglelabels": [
+              "village"
+            ]
+          },
+          "id": "77f940b7",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.89047568211128,
+            "y": 24.482264043555855,
+            "width": 70.92295716836972,
+            "height": 2.225660367595985,
+            "rotation": 0,
+            "rectanglelabels": [
+              "concession_ou_menage"
+            ]
+          },
+          "id": "944333b2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.293111781922796,
+            "y": 27.486905539810465,
+            "width": 67.56849297797393,
+            "height": 3.115932730479721,
+            "rotation": 0,
+            "rectanglelabels": [
+              "identite"
+            ]
+          },
+          "id": "b69eb4b9",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.293111781922796,
+            "y": 27.486905539810465,
+            "width": 67.56849297797393,
+            "height": 3.115932730479721,
+            "rotation": 0,
+            "text": [
+              "NK000211810 Aliou Kante"
+            ]
+          },
+          "id": "e955d25a",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.452848171941625,
+            "y": 31.047962127964013,
+            "width": 66.92954741789846,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "mere"
+            ]
+          },
+          "id": "5b1756f4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 16.452848171941625,
+            "y": 31.047962127964013,
+            "width": 66.92954741789846,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "8241b8f7",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.494429831828521,
+            "y": 30.936679109584215,
+            "width": 68.52691131808696,
+            "height": 2.782075459494987,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "44138bad",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.174957051790821,
+            "y": 34.60901871611759,
+            "width": 5.431037260640922,
+            "height": 2.225660367595985,
+            "rotation": 0,
+            "rectanglelabels": [
+              "sexe"
+            ]
+          },
+          "id": "d6dfaaf2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 15.174957051790821,
+            "y": 34.60901871611759,
+            "width": 5.431037260640922,
+            "height": 2.225660367595985,
+            "rotation": 0,
+            "text": [
+              "M"
+            ]
+          },
+          "id": "8e772578",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 14.376275101696567,
+            "y": 34.275169660978186,
+            "width": 6.868664770810582,
+            "height": 3.1159245146343864,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e872bf2d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 34.27516966097819,
+            "width": 27.314922693223473,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_naissance"
+            ]
+          },
+          "id": "2f8a51dd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 34.27516966097819,
+            "width": 27.314922693223473,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "text": [
+              "15/06/1962"
+            ]
+          },
+          "id": "cf3ca877",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 51.115644806032236,
+            "y": 34.27516966097819,
+            "width": 29.55123215348739,
+            "height": 2.6707924411151893,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "650b69c1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.71300870622074,
+            "y": 37.50237719399237,
+            "width": 26.835713523166923,
+            "height": 2.4482264043555872,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_deces"
+            ]
+          },
+          "id": "c9040558",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.71300870622074,
+            "y": 37.50237719399237,
+            "width": 26.835713523166923,
+            "height": 2.4482264043555872,
+            "rotation": 0,
+            "text": [
+              "11/01/2023"
+            ]
+          },
+          "id": "a3bf6ed4",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.23379953616419,
+            "y": 37.05724512047318,
+            "width": 27.95386825329887,
+            "height": 3.4497735697737753,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "704e8eb8",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.264710621093343,
+            "y": 31.159245146343817,
+            "width": 5.9102464306974785,
+            "height": 2.1143773492161806,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "8b358569",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514200580414716,
+            "y": 34.7203017344974,
+            "width": 7.188137550848284,
+            "height": 1.7805282940767881,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0ad7cf15",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.864114683996355,
+            "y": 34.497735697737795,
+            "width": 17.09179373201703,
+            "height": 2.00309433083639,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "c07eb138",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.85752443446763,
+            "y": 37.50237719399237,
+            "width": 13.417856761583458,
+            "height": 2.1143773492161912,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4d744eff",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514200580414716,
+            "y": 40.17316963510756,
+            "width": 12.938647591526909,
+            "height": 3.004641496254578,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "46482389",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.890475682111333,
+            "y": 40.395743887712555,
+            "width": 40.73277945480706,
+            "height": 2.55950120689013,
+            "rotation": 0,
+            "rectanglelabels": [
+              "repondant"
+            ]
+          },
+          "id": "d3e5e1b0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.890475682111333,
+            "y": 40.395743887712555,
+            "width": 40.73277945480706,
+            "height": 2.55950120689013,
+            "rotation": 0,
+            "text": [
+              "Marie Keita"
+            ]
+          },
+          "id": "6b42ac97",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.091793732017027,
+            "y": 39.83932057996816,
+            "width": 56.06747289661661,
+            "height": 3.3384905513939813,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "52280cfb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.153146140490119,
+            "y": 44.51320735191974,
+            "width": 52.5532723162019,
+            "height": 1.7805282940767881,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3fa67ada",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.18562762674857,
+            "y": 44.62449037029953,
+            "width": 16.29311178192276,
+            "height": 1.2241132021777972,
+            "rotation": 0,
+            "rectanglelabels": [
+              "age_declare"
+            ]
+          },
+          "id": "b6fb1ef8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.02589123672972,
+            "y": 44.29064131516014,
+            "width": 16.932057341998174,
+            "height": 2.00309433083639,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "527857d4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.995449913185777,
+            "y": 47.07271677465512,
+            "width": 3.034991410358163,
+            "height": 2.2256603675959923,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "96a8c213",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.1506362163904,
+            "y": 47.29528281141472,
+            "width": 2.7155186303204673,
+            "height": 2.00309433083639,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "efab31b1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.01271073767224,
+            "y": 47.40656582979452,
+            "width": 3.034991410358174,
+            "height": 2.114377349216184,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "b573b4ae",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 17.73073554705048,
+            "y": 47.29527733418469,
+            "width": 51.115650423595305,
+            "height": 2.114382826446475,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_deces"
+            ]
+          },
+          "id": "a798a07c",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.8336733604524174,
+            "y": 47.40656582979452,
+            "width": 13.09838398154576,
+            "height": 1.669245275696987,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "34c7189d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.622901176656996,
+            "y": 49.45345745023105,
+            "width": 24.717904702622512,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "b7b13721",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.45795234706444,
+            "y": 49.53506948945455,
+            "width": 41.938435467008794,
+            "height": 1.632242792898496,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_deces_precise"
+            ]
+          },
+          "id": "4b022109",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.106512943709628,
+            "y": 49.53506948945456,
+            "width": 42.64131427371845,
+            "height": 1.4690167060231616,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a473dc97",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7400476444419364,
+            "y": 51.41214639159526,
+            "width": 16.04906608653689,
+            "height": 1.6322407844701772,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d211f5fa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.25769960211859,
+            "y": 51.33053435237175,
+            "width": 51.66159229315889,
+            "height": 1.8770769021407077,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cause_declaree"
+            ]
+          },
+          "id": "9a8bd15e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.25769960211859,
+            "y": 51.33053435237175,
+            "width": 51.66159229315889,
+            "height": 1.8770769021407077,
+            "rotation": 0,
+            "text": [
+              "Pralysie et chute le jour de dece"
+            ]
+          },
+          "id": "6d7c5764",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 20.023406666548695,
+            "y": 51.16731027392474,
+            "width": 52.59876403543841,
+            "height": 2.2035210421781226,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "b5099baf",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.5143940335482244,
+            "y": 53.29266161295122,
+            "width": 35.14394033548225,
+            "height": 2.121913019811224,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "177a6645",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 39.00977377238529,
+            "y": 53.61910976984525,
+            "width": 40.766970789159416,
+            "height": 1.8770769021406934,
+            "rotation": 0,
+            "rectanglelabels": [
+              "nom_local_maladie"
+            ]
+          },
+          "id": "2926446e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 39.00977377238529,
+            "y": 53.61910976984525,
+            "width": 40.766970789159416,
+            "height": 1.8770769021406934,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "3dd6e3d0",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.54118721461671,
+            "y": 53.45588769982667,
+            "width": 41.1184053861124,
+            "height": 1.9586788992225637,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a9ac85a3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.54118721461671,
+            "y": 53.45588769982667,
+            "width": 41.1184053861124,
+            "height": 1.9586788992225637,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_guerisseur"
+            ]
+          },
+          "id": "581d4416",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 57.86293580946771,
+            "width": 52.950203438793245,
+            "height": 2.2035250590347317,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "c238be50",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 57.86293580946771,
+            "width": 52.950203438793245,
+            "height": 2.2035250590347317,
+            "rotation": 0,
+            "rectanglelabels": [
+              "nom_local_maladie"
+            ]
+          },
+          "id": "c88afcf2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514394033548221,
+            "y": 61.04580533918455,
+            "width": 52.83319910317593,
+            "height": 2.040300980587723,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "eda3276e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.23356108764239,
+            "y": 57.291651534902996,
+            "width": 10.660358780098086,
+            "height": 3.0196454512698114,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_guerisseur"
+            ]
+          },
+          "id": "80cdd4cc",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.23356108764239,
+            "y": 57.291651534902996,
+            "width": 10.660358780098086,
+            "height": 3.0196454512698114,
+            "rotation": 0,
+            "text": [
+              "OUI"
+            ]
+          },
+          "id": "666d2671",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.76497864964672,
+            "y": 56.88359937249885,
+            "width": 6.443052295027611,
+            "height": 3.754139745283245,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "fdf0e682",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.2080302580455,
+            "y": 56.80197327427716,
+            "width": 4.920153706853988,
+            "height": 3.754159829566306,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "369e733e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99927089858775,
+            "y": 60.80097524679897,
+            "width": 11.128942591351333,
+            "height": 3.346105658733709,
+            "rotation": 0,
+            "rectanglelabels": [
+              "consulte_etablissement"
+            ]
+          },
+          "id": "668459de",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99927089858775,
+            "y": 60.80097524679897,
+            "width": 11.128942591351333,
+            "height": 3.346105658733709,
+            "rotation": 0,
+            "text": [
+              "OUI"
+            ]
+          },
+          "id": "afe26aea",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 74.85659291457716,
+            "y": 60.637745143067,
+            "width": 5.271591050322343,
+            "height": 3.346093608163862,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "720b1906",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.99926952533013,
+            "y": 60.88258126073753,
+            "width": 5.62303045367716,
+            "height": 3.1828695297168323,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "f0414df3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514394033548223,
+            "y": 66.43219992793614,
+            "width": 26.709394654966488,
+            "height": 3.2643952065230035,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_consultation"
+            ]
+          },
+          "id": "005ad38b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.514394033548223,
+            "y": 66.43219992793614,
+            "width": 26.709394654966488,
+            "height": 3.2643952065230035,
+            "rotation": 0,
+            "text": [
+              "Poste de sante"
+            ]
+          },
+          "id": "43f0be68",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.8658375566760155,
+            "y": 69.77829152767166,
+            "width": 26.826539749493804,
+            "height": 3.3460936081638546,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_consultation"
+            ]
+          },
+          "id": "b9ab76c4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.8658375566760155,
+            "y": 69.77829152767166,
+            "width": 26.826539749493804,
+            "height": 3.3460936081638546,
+            "rotation": 0,
+            "text": [
+              "clinique"
+            ]
+          },
+          "id": "9f4e455f",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.1629546301934015,
+            "y": 66.51381196715963,
+            "width": 27.29512699389121,
+            "height": 3.1012574904933388,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "16a0855c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.2801010979783376,
+            "y": 69.77829353609998,
+            "width": 27.295130427035357,
+            "height": 3.4277056473873544,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "eba85786",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.575228091869555,
+            "y": 66.51381196715963,
+            "width": 22.374975346923684,
+            "height": 2.938033412046323,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_consultation_etablissement"
+            ]
+          },
+          "id": "bc481399",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.575228091869555,
+            "y": 66.51381196715963,
+            "width": 22.374975346923684,
+            "height": 2.938033412046323,
+            "rotation": 0,
+            "text": [
+              "Bandafassi"
+            ]
+          },
+          "id": "399698b9",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.043813963009313,
+            "y": 70.10474169299403,
+            "width": 21.67209654021405,
+            "height": 2.6931972943757785,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_consultation_etablissement"
+            ]
+          },
+          "id": "d77375a8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.043813963009313,
+            "y": 70.10474169299403,
+            "width": 21.67209654021405,
+            "height": 2.6931972943757785,
+            "rotation": 0,
+            "text": [
+              "Bandafassi"
+            ]
+          },
+          "id": "c30928a2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.34093515629967,
+            "y": 66.26897584948911,
+            "width": 23.077854153633336,
+            "height": 3.346093608163855,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1b09af42",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.926667495224375,
+            "y": 69.7782935361,
+            "width": 22.374975346923694,
+            "height": 3.346093608163855,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1c249dde",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.77022871328783,
+            "y": 66.67703604560666,
+            "width": 24.83505117040746,
+            "height": 2.856421372822794,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_consultation_etablissement"
+            ]
+          },
+          "id": "8dd95073",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.77022871328783,
+            "y": 66.67703604560666,
+            "width": 24.83505117040746,
+            "height": 2.856421372822794,
+            "rotation": 0,
+            "text": [
+              "11/20/22"
+            ]
+          },
+          "id": "2b3d5633",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.65308224550288,
+            "y": 70.18635373221753,
+            "width": 24.95219763819241,
+            "height": 2.3667491374817615,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_consultation_etablissement"
+            ]
+          },
+          "id": "22f43cf3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.65308224550288,
+            "y": 70.18635373221753,
+            "width": 24.95219763819241,
+            "height": 2.3667491374817615,
+            "rotation": 0,
+            "text": [
+              "12/20/2022"
+            ]
+          },
+          "id": "7882b867",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.65308224550288,
+            "y": 66.51381196715963,
+            "width": 25.772222912686978,
+            "height": 3.2644815689403686,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "2e980529",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.418789309933004,
+            "y": 69.941517614547,
+            "width": 26.006515848256853,
+            "height": 3.2644815689403544,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "682f0c2c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.41353718640542,
+            "y": 73.94050753649893,
+            "width": 5.154444582537408,
+            "height": 3.019645451269824,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "9c737f59",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 74.03656764008258,
+            "y": 73.85889549727543,
+            "width": 6.794495131526588,
+            "height": 3.346093608163841,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "70c2068d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.0620977830506,
+            "y": 73.45083530115788,
+            "width": 13.471843795268185,
+            "height": 3.9173778827284167,
+            "rotation": 0,
+            "rectanglelabels": [
+              "hospitalise"
+            ]
+          },
+          "id": "9ee14389",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.0620977830506,
+            "y": 73.45083530115788,
+            "width": 13.471843795268185,
+            "height": 3.9173778827284167,
+            "rotation": 0,
+            "text": [
+              "NON"
+            ]
+          },
+          "id": "51a14661",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486828493451307,
+            "y": 79.65335028214454,
+            "width": 26.12366300267064,
+            "height": 3.2644815689403512,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "38bc7727",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486828493451307,
+            "y": 79.65335028214454,
+            "width": 26.12366300267064,
+            "height": 3.2644815689403512,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "beca54e9",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486869691181055,
+            "y": 79.49012620369753,
+            "width": 26.475098972881312,
+            "height": 3.5093176866108555,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_hospitalise"
+            ]
+          },
+          "id": "0d2c3be6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 83.32589204720243,
+            "width": 26.00651584825686,
+            "height": 3.019645451269824,
+            "rotation": 0,
+            "rectanglelabels": [
+              "quel_etablissement_hospitalise"
+            ]
+          },
+          "id": "ba5bdd7b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 83.08105592953193,
+            "width": 26.943687590536374,
+            "height": 3.3460875828789045,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "7ce95145",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.397247565763283,
+            "y": 83.08105592953193,
+            "width": 26.943687590536374,
+            "height": 3.3460875828789045,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "9870ac19",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.10664222072979,
+            "y": 81.2039790273912,
+            "width": 0.8200252744945864,
+            "height": 0.2448361176705447,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "558ea7d7",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.45808162408461,
+            "y": 79.65335028214454,
+            "width": 22.72641475027851,
+            "height": 3.1828695297168395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "112afd38",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.45808162408461,
+            "y": 79.65335028214454,
+            "width": 22.72641475027851,
+            "height": 3.1828695297168395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "8aa380ff",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.575228091869555,
+            "y": 79.57173824292103,
+            "width": 22.726414750278515,
+            "height": 3.4277056473873557,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "095ce5e2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.926667495224386,
+            "y": 83.2442719742657,
+            "width": 22.140682411353797,
+            "height": 2.856429406536066,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_etablissement_hospitalise"
+            ]
+          },
+          "id": "af99ee3e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.926667495224386,
+            "y": 83.2442719742657,
+            "width": 22.140682411353797,
+            "height": 2.856429406536066,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "534ddf16",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.223788688514748,
+            "y": 83.1626679687554,
+            "width": 22.8435557250328,
+            "height": 3.019645451269839,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "21cb6cdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.223788688514748,
+            "y": 83.1626679687554,
+            "width": 22.8435557250328,
+            "height": 3.019645451269839,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "affcd7bf",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.653082245502894,
+            "y": 79.73496232136806,
+            "width": 25.420784882589803,
+            "height": 3.1828715381451502,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "4eac9d24",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.653082245502894,
+            "y": 79.73496232136806,
+            "width": 25.420784882589803,
+            "height": 3.1828715381451502,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "286c3f1a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.65308224550288,
+            "y": 83.16266796875541,
+            "width": 25.303637041547226,
+            "height": 3.3460936081638692,
+            "rotation": 0,
+            "rectanglelabels": [
+              "date_etablissement_hospitalise"
+            ]
+          },
+          "id": "99abccc0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.301642842148055,
+            "y": 79.57174426820596,
+            "width": 25.889369380471905,
+            "height": 3.5093116613259783,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d18dffdd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.30164284214807,
+            "y": 83.08105592953191,
+            "width": 25.88936938047192,
+            "height": 3.509317686610885,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6a965e94",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.45156577582775,
+            "y": 74.43017977183997,
+            "width": 30.340935156299675,
+            "height": 1.7138528236936992,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a3d36d8f",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.631540501333165,
+            "y": 77.77627338000384,
+            "width": 26.592248187181564,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d3bafc01",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.45808162408461,
+            "y": 77.69466134078033,
+            "width": 23.077854153633336,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a685236e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.004521648857704,
+            "y": 77.69466134078033,
+            "width": 25.06934410597735,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "15f88389",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.9829799046879875,
+            "y": 86.7535976945898,
+            "width": 29.052324010665323,
+            "height": 1.7954648629171999,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4de729d1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "rectanglelabels": [
+              "diagnostic_registre"
+            ]
+          },
+          "id": "a85e1815",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "29f97b7b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.386743318708135,
+            "y": 86.42714953769577,
+            "width": 53.77022871328783,
+            "height": 1.9586889413642155,
+            "rotation": 0,
+            "text": [
+              "dysenllere amibience"
+            ]
+          },
+          "id": "90034dd2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 33.03530391535331,
+            "y": 86.34553749847225,
+            "width": 54.12166811664265,
+            "height": 2.529973215928777,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "cc802be1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.1897484978907,
+            "y": 89.12033879835832,
+            "width": 2.460075823483755,
+            "height": 2.2035330927479846,
+            "rotation": 0,
+            "rectanglelabels": [
+              "bruit_rature"
+            ]
+          },
+          "id": "11103438",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 90.34452742042419,
+            "width": 20.617778330149584,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "d24fb03c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 90.34452742042419,
+            "width": 20.617778330149584,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "diagnostic_registre"
+            ]
+          },
+          "id": "f355b04e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.100126372472928,
+            "y": 90.34452742042419,
+            "width": 20.617778330149584,
+            "height": 1.713852823693685,
+            "rotation": 0,
+            "text": [
+              "Dysenterie amibienne"
+            ]
+          },
+          "id": "a6d4e4d2",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.889369380471912,
+            "y": 90.01807926353015,
+            "width": 41.23555666029916,
+            "height": 3.182863504431932,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cause_initiale_cim10"
+            ]
+          },
+          "id": "919fa26d",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.186490573762278,
+            "y": 89.77324314585965,
+            "width": 42.407021338148546,
+            "height": 3.7541638464229337,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d231b204",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.631540501333165,
+            "y": 92.87450063635296,
+            "width": 18.977727781160407,
+            "height": 2.203525059034746,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "32daf25e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.006515848256846,
+            "y": 93.77223306781156,
+            "width": 19.212047495254637,
+            "height": 2.36674913748176,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_jusqua_deces"
+            ]
+          },
+          "id": "ebc95cda",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.006515848256846,
+            "y": 93.77223306781156,
+            "width": 19.212047495254637,
+            "height": 2.36674913748176,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "cb6a1d1a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "ae2822cc",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_jusqua_deces"
+            ]
+          },
+          "id": "ceb9e612",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 24.600758234837574,
+            "y": 93.60900898936455,
+            "width": 22.37497534692369,
+            "height": 2.6931912690908426,
+            "rotation": 0,
+            "text": [
+              "diarrhée"
+            ]
+          },
+          "id": "0fc1ea8d",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 3.7486869691181055,
+            "y": 96.46543839590059,
+            "width": 57.284622746836035,
+            "height": 2.3667411037685238,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "57e47e39",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.93644126760967,
+            "y": 95.89414608762277,
+            "width": 11.480353842924188,
+            "height": 2.448361176705262,
+            "rotation": 0,
+            "rectanglelabels": [
+              "si_accident_utilise_cim9"
+            ]
+          },
+          "id": "36c84ee3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2090,
+          "original_height": 3000,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.70214833203977,
+            "y": 89.12034683207155,
+            "width": 13.4718437952682,
+            "height": 2.6931972943757927,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "5dcb3e8d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "model_version": "Template_Page_01_V1",
+      "created_ago": "1 week, 6 days",
+      "score": 1,
+      "cluster": null,
+      "neighbors": null,
+      "mislabeling": 0,
+      "created_at": "2026-03-20T15:56:30.727778Z",
+      "updated_at": "2026-03-20T15:56:30.727778Z",
+      "model": null,
+      "model_run": null,
+      "task": 101,
+      "project": 2
+    }
+  ]
+}

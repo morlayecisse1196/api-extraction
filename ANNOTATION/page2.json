@@ -1,0 +1,3037 @@
+{
+  "id": 111,
+  "data": {
+    "image": "/data/local-files/?d=02_IMAGES_BRUTES/Page_02/CamScanner 19-03-2026 23.06_2.jpg"
+  },
+  "annotations": [
+    {
+      "id": 25,
+      "result": [
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.27030210811056,
+            "y": 6.454787958434549,
+            "width": 23.925089315184103,
+            "height": 4.06026500993783,
+            "rotation": 0,
+            "rectanglelabels": [
+              "sagit_il_accident"
+            ]
+          },
+          "id": "f0160fba",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.79419917209928,
+            "y": 6.767108349896385,
+            "width": 4.419283353691881,
+            "height": 3.435608854562779,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "7faef091",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.066723568132522,
+            "y": 7.495873864500611,
+            "width": 29.10631450190167,
+            "height": 2.602733980729381,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "947362bd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 81.52815842155702,
+            "y": 7.079436427583912,
+            "width": 5.181228759500826,
+            "height": 2.706843339958554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "18fb91b9",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.6399240203527333e-15,
+            "y": 13.872563279769523,
+            "width": 98.34585256434968,
+            "height": 43.744366975173136,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "03f12d77",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.6399240203527333e-15,
+            "y": 13.872563279769523,
+            "width": 98.34585256434968,
+            "height": 43.744366975173136,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "03f12d77",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178662,
+            "y": 16.449329999714283,
+            "width": 97.52672432960458,
+            "height": 3.625058588442643,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "c4cc4289",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.4606289284620129,
+            "y": 10.994619802896345,
+            "width": 54.5552910559204,
+            "height": 2.0821871845835034,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "1d16d1f1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.066723568132522,
+            "y": 59.34233476062983,
+            "width": 24.38225298588621,
+            "height": 2.706843339958567,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0ceefbcd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "rectanglelabels": [
+              "_premier_symptome"
+            ]
+          },
+          "id": "e33fc685",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "89543d62",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "text": [
+              "Maux des hanches"
+            ]
+          },
+          "id": "8aa6d40c",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.80060877381155,
+            "y": 57.8848037314214,
+            "width": 70.76008598203552,
+            "height": 4.060259885787341,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "60b04e0d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.210921959827633,
+            "y": 57.88480373142135,
+            "width": 70.48654385802476,
+            "height": 4.0602598857873415,
+            "rotation": 0,
+            "rectanglelabels": [
+              "_premier_symptome"
+            ]
+          },
+          "id": "6e6bd3c5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.371501730456099,
+            "y": 62.36150617827592,
+            "width": 45.107164451106165,
+            "height": 2.3945152622710206,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "541c4581",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 47.6977824036399,
+            "y": 62.25739425697152,
+            "width": 40.840273751359426,
+            "height": 2.0821871845835185,
+            "rotation": 0,
+            "rectanglelabels": [
+              "maladie_avant_premier_symptome"
+            ]
+          },
+          "id": "db8bc3de",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 47.6977824036399,
+            "y": 62.25739425697152,
+            "width": 40.840273751359426,
+            "height": 2.0821871845835185,
+            "rotation": 0,
+            "text": [
+              "La Toux"
+            ]
+          },
+          "id": "eb55389d",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.93583699783099,
+            "y": 62.15328233566709,
+            "width": 43.278499049948024,
+            "height": 2.290405903041866,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4aaff754",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.3047736963444285,
+            "y": 19.69349444891502,
+            "width": 97.51385196791456,
+            "height": 5.081473855883037,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "9567903b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.4571636707020374,
+            "y": 24.778027496543704,
+            "width": 97.11915590785902,
+            "height": 2.39451526227103,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e08d8fdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": -4.3359292409434523e-17,
+            "y": 27.38075379104736,
+            "width": 97.04485334969598,
+            "height": 2.6027416669550636,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "82e6d52c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238640157430292,
+            "y": 30.295823535689966,
+            "width": 92.34778586363154,
+            "height": 2.4986323077259063,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e74f8386",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238640157430292,
+            "y": 30.295823535689966,
+            "width": 92.34778586363154,
+            "height": 2.4986323077259063,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "056c2397",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 33.10677111072721,
+            "width": 92.65256134636758,
+            "height": 2.9150799929435536,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "48449e34",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 33.10677111072721,
+            "width": 92.65256134636758,
+            "height": 2.9150799929435536,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "c71933e5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 36.750598683748365,
+            "width": 91.43344869707329,
+            "height": 3.435613978713252,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "b3f99253",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 36.750598683748365,
+            "width": 91.43344869707329,
+            "height": 3.435613978713252,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "35227f62",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0,
+            "y": 40.60265009937831,
+            "width": 91.43344869707329,
+            "height": 2.70684333995856,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d254057d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0,
+            "y": 40.60265009937831,
+            "width": 91.43344869707329,
+            "height": 2.70684333995856,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "01280de1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 43.51770447156952,
+            "width": 91.43344869707332,
+            "height": 2.394522948496728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "bca4bb74",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 43.51770447156952,
+            "width": 91.43344869707332,
+            "height": 2.394522948496728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "8965e378",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.7619454058089443,
+            "y": 46.64098524844478,
+            "width": 90.97628145358789,
+            "height": 3.4356165407884847,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "2d4fe4d5",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.7619454058089443,
+            "y": 46.64098524844478,
+            "width": 90.97628145358789,
+            "height": 3.4356165407884847,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "7f20928c",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.45716724348536647,
+            "y": 50.597148585379124,
+            "width": 91.2810596159115,
+            "height": 3.2273901361044395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "fcecae80",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 54.13686679917109,
+            "width": 91.43344869707332,
+            "height": 3.3314994953335955,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "0a3dfac3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6321128139501433,
+            "y": 65.1482161005017,
+            "width": 52.57423300081715,
+            "height": 1.665749747666812,
+            "rotation": 0.9696286734616137,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "f339ae51",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.87143574589353,
+            "y": 64.76061022816538,
+            "width": 35.6590449918586,
+            "height": 1.5616403884376382,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_maladie_conduit_deces"
+            ]
+          },
+          "id": "9df32b79",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.5552910559204,
+            "y": 65.06834951823447,
+            "width": 35.6590449918586,
+            "height": 1.5616403884376382,
+            "rotation": 0,
+            "text": [
+              "02 ans"
+            ]
+          },
+          "id": "c7fee1ff",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178881,
+            "y": 67.35876054542659,
+            "width": 28.282059509493834,
+            "height": 2.1862965438126967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "7600f1e9",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.8286689739414659,
+            "y": 70.16970812046407,
+            "width": 25.29658747285695,
+            "height": 1.978077825354319,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "85fcbb5c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.734812771445565,
+            "y": 70.16970812046407,
+            "width": 35.963823154182165,
+            "height": 1.66574974766678,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "10f7b334",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.30819314347073,
+            "y": 69.85738516692697,
+            "width": 26.972867365636617,
+            "height": 1.7698642310464685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "e293563e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.30819314347073,
+            "y": 69.85738516692697,
+            "width": 26.972867365636617,
+            "height": 1.7698642310464685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "223fa18b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.9810580551032544,
+            "y": 72.35600466427672,
+            "width": 24.687031148209783,
+            "height": 3.01916373142039,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "39db6176",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.9810580551032544,
+            "y": 72.35600466427672,
+            "width": 24.687031148209783,
+            "height": 3.01916373142039,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a6acbffe",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3715017304560988,
+            "y": 75.99982455107217,
+            "width": 25.753754716342307,
+            "height": 3.1232884631009554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "2b027dc0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3715017304560988,
+            "y": 75.99982455107217,
+            "width": 25.753754716342307,
+            "height": 3.1232884631009554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "dd000f83",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.1334471362650445,
+            "y": 79.43543084355971,
+            "width": 24.99180931053337,
+            "height": 3.3315097436345456,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "e58039c0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.1334471362650445,
+            "y": 79.43543084355971,
+            "width": 24.99180931053337,
+            "height": 3.3315097436345456,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "afbe3f7a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191144356859676,
+            "y": 71.8354578681309,
+            "width": 26.210920173435998,
+            "height": 3.8520437294042,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "06cd08e4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191126492943112,
+            "y": 75.8957228780687,
+            "width": 26.210919280240198,
+            "height": 3.8520462914794806,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6c6adad2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191135424901403,
+            "y": 79.74776916954818,
+            "width": 26.363303002227024,
+            "height": 3.1232807768752457,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1e11d21a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.582423690283814,
+            "y": 72.30692581749089,
+            "width": 36.11640873842621,
+            "height": 3.019217535000219,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "9e7a9c51",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.039590933769148,
+            "y": 75.63839969207208,
+            "width": 35.50665591069678,
+            "height": 3.1232910251761967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "83fa970a",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.03959272016081,
+            "y": 79.49045879392776,
+            "width": 35.50665591069681,
+            "height": 2.706843339958553,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "69e5ba7e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.03959272016081,
+            "y": 79.49045879392776,
+            "width": 35.50665591069681,
+            "height": 2.706843339958553,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "3a3926bc",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.734812771445565,
+            "y": 71.9945823673519,
+            "width": 36.26860131650575,
+            "height": 3.4356088545627728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "fa42d4b0",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.191980014930934,
+            "y": 75.95073801806055,
+            "width": 35.81143407302038,
+            "height": 2.9150620584169076,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "dd16c08f",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.496758177254538,
+            "y": 79.0740187949358,
+            "width": 35.50665233791349,
+            "height": 3.643827573021141,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_date"
+            ]
+          },
+          "id": "331bc14b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.496758177254538,
+            "y": 79.0740187949358,
+            "width": 35.50665233791349,
+            "height": 3.643827573021141,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "73060df2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.98964439677043,
+            "y": 71.37757419134066,
+            "width": 28.00456378505405,
+            "height": 3.0191791038717604,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a66fe1fa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.12641545877578,
+            "y": 71.27499442798447,
+            "width": 27.731021661043187,
+            "height": 3.0191791038717612,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_date"
+            ]
+          },
+          "id": "22499fa1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.35310352531731,
+            "y": 74.91576280926,
+            "width": 27.125258233190095,
+            "height": 3.0191714176460915,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "97191caa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.626645649328,
+            "y": 78.04363237375371,
+            "width": 26.82047828447484,
+            "height": 3.4356165407884878,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6d10c85b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.595833887385799,
+            "y": 83.02698009403169,
+            "width": 65.40693593718406,
+            "height": 3.2273901361044355,
+            "rotation": 0.871605544970464,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "bb9ad536",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.95461724805523,
+            "y": 83.92743949744327,
+            "width": 5.333617840662611,
+            "height": 3.838279928624136,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "e9357015",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 74.65548354127527,
+            "y": 83.82027863269421,
+            "width": 9.143344869707303,
+            "height": 4.360356320642656,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "13819450",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 32.363408808062815,
+            "y": 88.14377973314443,
+            "width": 42.16479228651908,
+            "height": 1.8380919669087898,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1e2efcdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.665077416826936,
+            "y": 88.32990913136052,
+            "width": 42.330515510942796,
+            "height": 1.6709762482977328,
+            "rotation": 0,
+            "rectanglelabels": [
+              "village_autres_personnes"
+            ]
+          },
+          "id": "c85f6c94",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction-changed"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.5470786079241762,
+            "y": 13.745350024095131,
+            "width": 97.38007117186723,
+            "height": 3.7953805618092384,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6gT8F7egKF",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.5470786079241762,
+            "y": 13.745350024095131,
+            "width": 97.38007117186723,
+            "height": 3.7953805618092384,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "6gT8F7egKF",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "created_username": " morlayecis0003@gmail.com, 1",
+      "created_ago": "1 week, 5 days",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "morlayecis0003@gmail.com",
+        "initials": "mo"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2026-03-21T12:33:30.567669Z",
+      "updated_at": "2026-03-21T12:33:30.567669Z",
+      "draft_created_at": "2026-03-21T12:19:43.015154Z",
+      "lead_time": 861.138,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 111,
+      "project": 2,
+      "updated_by": 1,
+      "parent_prediction": 182,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": [
+    {
+      "id": 182,
+      "result": [
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.27030210811056,
+            "y": 6.454787958434549,
+            "width": 23.925089315184103,
+            "height": 4.06026500993783,
+            "rotation": 0,
+            "rectanglelabels": [
+              "sagit_il_accident"
+            ]
+          },
+          "id": "f0160fba",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.79419917209928,
+            "y": 6.767108349896385,
+            "width": 4.419283353691881,
+            "height": 3.435608854562779,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "7faef091",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.066723568132522,
+            "y": 7.495873864500611,
+            "width": 29.10631450190167,
+            "height": 2.602733980729381,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "947362bd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 81.52815842155702,
+            "y": 7.079436427583912,
+            "width": 5.181228759500826,
+            "height": 2.706843339958554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "18fb91b9",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3534869328583174e-15,
+            "y": 15.61641925682771,
+            "width": 96.15751557226379,
+            "height": 31.024476318984018,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "03f12d77",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3534869328583174e-15,
+            "y": 15.61641925682771,
+            "width": 96.15751557226379,
+            "height": 31.024476318984018,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "3f7c267e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3534869328583174e-15,
+            "y": 15.61641925682771,
+            "width": 96.15751557226379,
+            "height": 31.024476318984018,
+            "rotation": 0,
+            "text": [
+              "Tout d'abord il a eu des maux de hanches puis la douleur est descendue vers les articulations (genoux, cheville), il a commencé à maigrir puis s'en est suivit une diarrhée de presque une semaine (07 jrs). Il a eu aussi des problèmes de respiration à chaque fois qu'il expirait il ressentait une douleur depuis le bas ventre jusqu'à la poitrine.  Pour son traitement il a prit des médicaments modernes et puisque ça ne marche pas il a eu à prendre des ecorces et des feuilles d'arbres connus pour leur efficacité à soigner."
+            ]
+          },
+          "id": "2abe16ad",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 16.44932999971432,
+            "width": 95.88547158554009,
+            "height": 3.625058588442646,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "3e38566d",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 16.44932999971432,
+            "width": 95.88547158554009,
+            "height": 3.625058588442646,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "c4cc4289",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 12.909560544417719,
+            "width": 54.5552910559204,
+            "height": 2.0821871845835034,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "1d16d1f1",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 12.909560544417719,
+            "width": 54.5552910559204,
+            "height": 2.0821871845835034,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "d63930b0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.066723568132522,
+            "y": 59.34233476062983,
+            "width": 24.38225298588621,
+            "height": 2.706843339958567,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "0ceefbcd",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "rectanglelabels": [
+              "_premier_symptome"
+            ]
+          },
+          "id": "e33fc685",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "89543d62",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.58242369028378,
+            "y": 58.71767860525481,
+            "width": 58.66979624728869,
+            "height": 2.9150569342664023,
+            "rotation": 0,
+            "text": [
+              "Maux des hanches"
+            ]
+          },
+          "id": "8aa6d40c",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.210921959827676,
+            "y": 57.88480373142141,
+            "width": 61.86996695168623,
+            "height": 4.060259885787346,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "60b04e0d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 26.210921959827676,
+            "y": 57.88480373142141,
+            "width": 61.86996695168623,
+            "height": 4.060259885787346,
+            "rotation": 0,
+            "rectanglelabels": [
+              "_premier_symptome"
+            ]
+          },
+          "id": "6e6bd3c5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.371501730456099,
+            "y": 62.36150617827592,
+            "width": 45.107164451106165,
+            "height": 2.3945152622710206,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "541c4581",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 47.6977824036399,
+            "y": 62.25739425697152,
+            "width": 40.840273751359426,
+            "height": 2.0821871845835185,
+            "rotation": 0,
+            "rectanglelabels": [
+              "maladie_avant_premier_symptome"
+            ]
+          },
+          "id": "db8bc3de",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 47.6977824036399,
+            "y": 62.25739425697152,
+            "width": 40.840273751359426,
+            "height": 2.0821871845835185,
+            "rotation": 0,
+            "text": [
+              "La Toux"
+            ]
+          },
+          "id": "eb55389d",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.93583699783099,
+            "y": 62.15328233566709,
+            "width": 43.278499049948024,
+            "height": 2.290405903041866,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "4aaff754",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.30477369634443463,
+            "y": 20.821871845835034,
+            "width": 92.0430094876996,
+            "height": 3.7479369322503038,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "9567903b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.30477369634443463,
+            "y": 20.821871845835034,
+            "width": 92.0430094876996,
+            "height": 3.7479369322503038,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "b3267284",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.4571636707020522,
+            "y": 24.778027496543697,
+            "width": 92.19539767566556,
+            "height": 2.394515262271028,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e08d8fdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": -1.728806764429704e-17,
+            "y": 27.380753791047358,
+            "width": 92.80495042752943,
+            "height": 2.6027416669550636,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "82e6d52c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238640157430292,
+            "y": 30.295823535689966,
+            "width": 92.34778586363154,
+            "height": 2.4986323077259063,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "e74f8386",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238640157430292,
+            "y": 30.295823535689966,
+            "width": 92.34778586363154,
+            "height": 2.4986323077259063,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "056c2397",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 33.10677111072721,
+            "width": 92.65256134636758,
+            "height": 2.9150799929435536,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "48449e34",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 33.10677111072721,
+            "width": 92.65256134636758,
+            "height": 2.9150799929435536,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "c71933e5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 36.750598683748365,
+            "width": 91.43344869707329,
+            "height": 3.435613978713252,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "b3f99253",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 36.750598683748365,
+            "width": 91.43344869707329,
+            "height": 3.435613978713252,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "35227f62",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0,
+            "y": 40.60265009937831,
+            "width": 91.43344869707329,
+            "height": 2.70684333995856,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "d254057d",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0,
+            "y": 40.60265009937831,
+            "width": 91.43344869707329,
+            "height": 2.70684333995856,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "01280de1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 43.51770447156952,
+            "width": 91.43344869707332,
+            "height": 2.394522948496728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "bca4bb74",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 43.51770447156952,
+            "width": 91.43344869707332,
+            "height": 2.394522948496728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "8965e378",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.7619454058089443,
+            "y": 46.64098524844478,
+            "width": 90.97628145358789,
+            "height": 3.4356165407884847,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "2d4fe4d5",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.7619454058089443,
+            "y": 46.64098524844478,
+            "width": 90.97628145358789,
+            "height": 3.4356165407884847,
+            "rotation": 0,
+            "rectanglelabels": [
+              "histoire_symtomes_traitements"
+            ]
+          },
+          "id": "7f20928c",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.45716724348536647,
+            "y": 50.597148585379124,
+            "width": 91.2810596159115,
+            "height": 3.2273901361044395,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "fcecae80",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 54.13686679917109,
+            "width": 91.43344869707332,
+            "height": 3.3314994953335955,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "0a3dfac3",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.6095563246471554,
+            "y": 65.27656823669282,
+            "width": 52.574233000817145,
+            "height": 1.6657497476668084,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "f339ae51",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.5552910559204,
+            "y": 65.06834951823447,
+            "width": 35.6590449918586,
+            "height": 1.5616403884376382,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_maladie_conduit_deces"
+            ]
+          },
+          "id": "9df32b79",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 54.5552910559204,
+            "y": 65.06834951823447,
+            "width": 35.6590449918586,
+            "height": 1.5616403884376382,
+            "rotation": 0,
+            "text": [
+              "02 ans"
+            ]
+          },
+          "id": "c7fee1ff",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.15238908116178884,
+            "y": 67.35876054542679,
+            "width": 71.77525722720254,
+            "height": 2.186296543812702,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "7600f1e9",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.8286689739414659,
+            "y": 70.16970812046407,
+            "width": 25.29658747285695,
+            "height": 1.978077825354319,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "85fcbb5c",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.734812771445565,
+            "y": 70.16970812046407,
+            "width": 35.963823154182165,
+            "height": 1.66574974766678,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "10f7b334",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.30819314347073,
+            "y": 69.85738516692697,
+            "width": 26.972867365636617,
+            "height": 1.7698642310464685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "e293563e",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.30819314347073,
+            "y": 69.85738516692697,
+            "width": 26.972867365636617,
+            "height": 1.7698642310464685,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "223fa18b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.9810580551032544,
+            "y": 72.35600466427672,
+            "width": 24.687031148209783,
+            "height": 3.01916373142039,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "39db6176",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.9810580551032544,
+            "y": 72.35600466427672,
+            "width": 24.687031148209783,
+            "height": 3.01916373142039,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "a6acbffe",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3715017304560988,
+            "y": 75.99982455107217,
+            "width": 25.753754716342307,
+            "height": 3.1232884631009554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "2b027dc0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.3715017304560988,
+            "y": 75.99982455107217,
+            "width": 25.753754716342307,
+            "height": 3.1232884631009554,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "dd000f83",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.1334471362650445,
+            "y": 79.43543084355971,
+            "width": 24.99180931053337,
+            "height": 3.3315097436345456,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_medicament_soins"
+            ]
+          },
+          "id": "e58039c0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.1334471362650445,
+            "y": 79.43543084355971,
+            "width": 24.99180931053337,
+            "height": 3.3315097436345456,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "afbe3f7a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191144356859676,
+            "y": 71.8354578681309,
+            "width": 26.210920173435998,
+            "height": 3.8520437294042,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "06cd08e4",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191126492943112,
+            "y": 75.8957228780687,
+            "width": 26.210919280240198,
+            "height": 3.8520462914794806,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6c6adad2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.2191135424901403,
+            "y": 79.74776916954818,
+            "width": 26.363303002227024,
+            "height": 3.1232807768752457,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1e11d21a",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.582423690283814,
+            "y": 72.30692581749089,
+            "width": 36.11640873842621,
+            "height": 3.019217535000219,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "9e7a9c51",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.039590933769148,
+            "y": 75.63839969207208,
+            "width": 35.50665591069678,
+            "height": 3.1232910251761967,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "83fa970a",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.03959272016081,
+            "y": 79.49045879392776,
+            "width": 35.50665591069681,
+            "height": 2.706843339958553,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_lieu_qui"
+            ]
+          },
+          "id": "69e5ba7e",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.03959272016081,
+            "y": 79.49045879392776,
+            "width": 35.50665591069681,
+            "height": 2.706843339958553,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "3a3926bc",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 27.734812771445565,
+            "y": 71.9945823673519,
+            "width": 36.26860131650575,
+            "height": 3.4356088545627728,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "fa42d4b0",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.191980014930934,
+            "y": 75.95073801806055,
+            "width": 35.81143407302038,
+            "height": 2.9150620584169076,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "dd16c08f",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.496758177254538,
+            "y": 79.0740187949358,
+            "width": 35.50665233791349,
+            "height": 3.643827573021141,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_date"
+            ]
+          },
+          "id": "331bc14b",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.496758177254538,
+            "y": 79.0740187949358,
+            "width": 35.50665233791349,
+            "height": 3.643827573021141,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "73060df2",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.61297041259847,
+            "y": 71.89047300812273,
+            "width": 26.36331104098947,
+            "height": 3.019179103871763,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "a66fe1fa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.61297041259847,
+            "y": 71.89047300812273,
+            "width": 26.36331104098947,
+            "height": 3.019179103871763,
+            "rotation": 0,
+            "rectanglelabels": [
+              "traitement_date"
+            ]
+          },
+          "id": "22499fa1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.15580316911311,
+            "y": 75.32608186268547,
+            "width": 27.125258233190095,
+            "height": 3.0191714176460915,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "97191caa",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 64.15580316911307,
+            "y": 78.76169071724827,
+            "width": 26.82047828447484,
+            "height": 3.4356165407884878,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "6d10c85b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.2857227815565953,
+            "y": 84.32858097563198,
+            "width": 60.34629586624217,
+            "height": 3.227390136104432,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "bb9ad536",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 2.2857227815565953,
+            "y": 84.32858097563198,
+            "width": 60.34629586624217,
+            "height": 3.227390136104432,
+            "rotation": 0,
+            "rectanglelabels": [
+              "autres_personnes_symptomes"
+            ]
+          },
+          "id": "79cb731a",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.47951523757115,
+            "y": 84.64088855671774,
+            "width": 16.000853521987846,
+            "height": 3.516551816635247,
+            "rotation": 0,
+            "rectanglelabels": [
+              "autres_personnes_symptomes"
+            ]
+          },
+          "id": "2d0a9176",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.47951523757115,
+            "y": 84.64088855671774,
+            "width": 16.000853521987846,
+            "height": 3.516551816635247,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "719ebb2b",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.47951523757115,
+            "y": 84.64088855671774,
+            "width": 16.000853521987846,
+            "height": 3.516551816635247,
+            "rotation": 0,
+            "text": [
+              "NON"
+            ]
+          },
+          "id": "62cbb4fe",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.9366905198188,
+            "y": 84.95323713100693,
+            "width": 5.333617840662612,
+            "height": 2.9150620584169076,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_vide"
+            ]
+          },
+          "id": "e9357015",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.18464106106046,
+            "y": 84.64091673954512,
+            "width": 9.14334486970732,
+            "height": 3.539718213791957,
+            "rotation": 0,
+            "rectanglelabels": [
+              "case_cochee"
+            ]
+          },
+          "id": "13819450",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 1.580512140951979,
+            "y": 87.82861132220349,
+            "width": 29.106205429504957,
+            "height": 2.5064890457847184,
+            "rotation": 0,
+            "rectanglelabels": [
+              "question_imprimee"
+            ]
+          },
+          "id": "715c8711",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.54278243603061,
+            "y": 88.24635949650094,
+            "width": 50.50782706884684,
+            "height": 1.8380919669087916,
+            "rotation": 0,
+            "rectanglelabels": [
+              "texte_manuscrit"
+            ]
+          },
+          "id": "1e2efcdb",
+          "from_name": "yolo_objects",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 2096,
+          "original_height": 3068,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.66507741682692,
+            "y": 88.32990913136058,
+            "width": 50.26323710725444,
+            "height": 1.670976248297733,
+            "rotation": 0,
+            "rectanglelabels": [
+              "village_autres_personnes"
+            ]
+          },
+          "id": "c85f6c94",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "model_version": "Template_Page_02_V1",
+      "created_ago": "1 week, 5 days",
+      "score": 1,
+      "cluster": null,
+      "neighbors": null,
+      "mislabeling": 0,
+      "created_at": "2026-03-21T12:06:46.837733Z",
+      "updated_at": "2026-03-21T12:06:46.837733Z",
+      "model": null,
+      "model_run": null,
+      "task": 111,
+      "project": 2
+    }
+  ]
+}

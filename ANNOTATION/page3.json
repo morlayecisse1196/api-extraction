@@ -1,0 +1,739 @@
+{
+  "id": 946,
+  "data": {
+    "image": "/data/upload/2/cb84e0b2-redresse_CamScanner_20-03-2026_10.47_3.jpg"
+  },
+  "annotations": [
+    {
+      "id": 417,
+      "result": [
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.21924130180393,
+            "y": 2.41983611258389,
+            "width": 22.915518668880853,
+            "height": 3.5745573507267827,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fievre_ou_corps_chaud"
+            ]
+          },
+          "id": "NTAkbTL0Ct",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 35.55141751373295,
+            "y": 6.19350482276647,
+            "width": 63.964558282582594,
+            "height": 2.309442476285805,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_fievre"
+            ]
+          },
+          "id": "QQNTPpMNym",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 30.792566350477422,
+            "y": 8.817871273091264,
+            "width": 36.39121477783697,
+            "height": 1.5746198701948675,
+            "rotation": 0,
+            "rectanglelabels": [
+              "debut_fievre"
+            ]
+          },
+          "id": "7VLd5NUQbd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.67283666500548,
+            "y": 10.707415117325105,
+            "width": 37.09104583125684,
+            "height": 1.7845691862208437,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fin_fievre"
+            ]
+          },
+          "id": "w2aiYQd0Q3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.345673330011,
+            "y": 15.956148017974673,
+            "width": 3.079256635047753,
+            "height": 1.9945185022468188,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fievre_forte"
+            ]
+          },
+          "id": "J8GLy2sCzr",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.34567333001104,
+            "y": 18.265590494260476,
+            "width": 3.359189056415672,
+            "height": 1.7845691862208486,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fievre_moyenne"
+            ]
+          },
+          "id": "o9yfduB3QN",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.34567333001104,
+            "y": 20.47005831253329,
+            "width": 2.7993242136797676,
+            "height": 1.5746198701948693,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fievre_intermittente"
+            ]
+          },
+          "id": "CRFK7mewiP",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.48563954069503,
+            "y": 22.35960215676713,
+            "width": 2.7993242136797534,
+            "height": 1.6795945282078613,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fievre_continue"
+            ]
+          },
+          "id": "ihyAh78tAt",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.34567333001106,
+            "y": 24.564069975039942,
+            "width": 2.7993242136797414,
+            "height": 1.5746198701948668,
+            "rotation": 0,
+            "rectanglelabels": [
+              "sueurs"
+            ]
+          },
+          "id": "yubHQl_QAy",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.765571962063,
+            "y": 26.768537793312763,
+            "width": 2.3794255816278067,
+            "height": 1.5746198701948657,
+            "rotation": 0,
+            "rectanglelabels": [
+              "frissons"
+            ]
+          },
+          "id": "10rP3uzSC3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.517702326511204,
+            "y": 31.387422745884376,
+            "width": 7.978074008987333,
+            "height": 2.3094424762858132,
+            "rotation": 0,
+            "rectanglelabels": [
+              "act_antipaludeens_donne"
+            ]
+          },
+          "id": "arojc6MJ7A",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.237769905143228,
+            "y": 36.74113030454693,
+            "width": 8.677905062407273,
+            "height": 2.2044678182728106,
+            "rotation": 0,
+            "rectanglelabels": [
+              "act_antipaludeens_donne"
+            ]
+          },
+          "id": "YoX6mLG4TL",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.63067414878077,
+            "y": 32.122245351975316,
+            "width": 31.212464982529397,
+            "height": 1.2596958961558968,
+            "rotation": 0,
+            "rectanglelabels": [
+              "act_antipaludeens_nombre_fois"
+            ]
+          },
+          "id": "A_qe1qzgDk",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 56.40638290564728,
+            "y": 34.53666248627411,
+            "width": 13.856654857714844,
+            "height": 1.1547212381429048,
+            "rotation": 0,
+            "rectanglelabels": [
+              "act_antipaludeens_nombre_comprimes"
+            ]
+          },
+          "id": "pE4kczdZfo",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.937600958563168,
+            "y": 42.09483786320948,
+            "width": 7.838107798303346,
+            "height": 2.099493160259833,
+            "rotation": 0,
+            "rectanglelabels": [
+              "autre_traitement_oui_non"
+            ]
+          },
+          "id": "5hfMNvGIXy",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.937600958563168,
+            "y": 45.139102945586224,
+            "width": 7.698141587619359,
+            "height": 2.2044678182728177,
+            "rotation": 0,
+            "rectanglelabels": [
+              "autre_traitement_oui_non"
+            ]
+          },
+          "id": "YV4SormlXn",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.35243119321338,
+            "y": 42.40976183724845,
+            "width": 38.910606570148744,
+            "height": 1.6795945282078648,
+            "rotation": 0,
+            "rectanglelabels": [
+              "autre_traitement_nom"
+            ]
+          },
+          "id": "TEZpUyv2RI",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.797634747879181,
+            "y": 50.91270913630074,
+            "width": 7.838107798303346,
+            "height": 1.8895438442338417,
+            "rotation": 0,
+            "rectanglelabels": [
+              "injection_fievre_oui_non"
+            ]
+          },
+          "id": "1p67wBZXHl",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 9.657668537195192,
+            "y": 56.89626464304124,
+            "width": 8.3979726410393,
+            "height": 2.0994931602598186,
+            "rotation": 0,
+            "rectanglelabels": [
+              "injection_fievre_oui_non"
+            ]
+          },
+          "id": "p4hgXmU3F3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 32.612127089369274,
+            "y": 51.01768379431374,
+            "width": 42.40976183724846,
+            "height": 1.6795945282078506,
+            "rotation": 0,
+            "rectanglelabels": [
+              "injection_fievre_lieu"
+            ]
+          },
+          "id": "OoZODx5SFd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 34.151755406893145,
+            "y": 53.53707558662553,
+            "width": 38.350741727412796,
+            "height": 2.6243664503247786,
+            "rotation": 0,
+            "rectanglelabels": [
+              "injection_fievre_date"
+            ]
+          },
+          "id": "d0hr5yvtWL",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 63.048920379426974,
+            "y": 60.04550438343088,
+            "width": 25.1939179231178,
+            "height": 4.198986320519641,
+            "rotation": 0,
+            "rectanglelabels": [
+              "diarrhee_dysenterie"
+            ]
+          },
+          "id": "TZdIVVo-_L",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 35.55141751373303,
+            "y": 64.13951604593763,
+            "width": 31.912296035949318,
+            "height": 2.09949316025978,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_selles"
+            ]
+          },
+          "id": "tjiDcdh-fd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.35243119321338,
+            "y": 66.65890783824942,
+            "width": 37.510944463308874,
+            "height": 1.679594528207872,
+            "rotation": 0,
+            "rectanglelabels": [
+              "debut_selles"
+            ]
+          },
+          "id": "1i0MHN7f3Y",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.952769086373493,
+            "y": 68.75840099850925,
+            "width": 38.350741727412796,
+            "height": 1.57461987019488,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fin_selles"
+            ]
+          },
+          "id": "PoFB16o-FS",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 36.95107962057291,
+            "y": 71.06784347479505,
+            "width": 29.952769086373493,
+            "height": 1.2596958961558897,
+            "rotation": 0,
+            "rectanglelabels": [
+              "nb_selles_jour"
+            ]
+          },
+          "id": "KqLUV0EG_H",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.905538172746986,
+            "y": 75.89667774339266,
+            "width": 3.6391214777837035,
+            "height": 2.4144171342988017,
+            "rotation": 0,
+            "rectanglelabels": [
+              "selles_comme_eau_incolore"
+            ]
+          },
+          "id": "GOj8ZXC5b6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 60.32543680479896,
+            "y": 78.73099350974341,
+            "width": 2.9392904243637474,
+            "height": 1.784569186220864,
+            "rotation": 0,
+            "rectanglelabels": [
+              "selles_comme_craches"
+            ]
+          },
+          "id": "otQFuumGRI",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 60.32543680479896,
+            "y": 81.04043598602921,
+            "width": 2.9392904243637474,
+            "height": 1.679594528207872,
+            "rotation": 0,
+            "rectanglelabels": [
+              "selles_avec_sang"
+            ]
+          },
+          "id": "PobBHjtuFE",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.905538172746986,
+            "y": 82.82500517225002,
+            "width": 3.4991552670995447,
+            "height": 1.6795945282078455,
+            "rotation": 0,
+            "rectanglelabels": [
+              "selles_autre_couleur"
+            ]
+          },
+          "id": "eKczov22z8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 48.14837647529187,
+            "y": 84.92449833250981,
+            "width": 16.376046650026737,
+            "height": 1.6795945282078637,
+            "rotation": 0,
+            "rectanglelabels": [
+              "selles_autre_couleur_preciser"
+            ]
+          },
+          "id": "P_cLYWJbFK",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.06405144284247,
+            "y": 87.75881409886065,
+            "width": 21.694762656018185,
+            "height": 2.3094424762858097,
+            "rotation": 0,
+            "rectanglelabels": [
+              "signes_deshydratation"
+            ]
+          },
+          "id": "V9HIGe3xgE",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.905538172746986,
+            "y": 92.58764836745826,
+            "width": 9.097803694459245,
+            "height": 1.7845691862208497,
+            "rotation": 0,
+            "rectanglelabels": [
+              "bouche_langue_seche"
+            ]
+          },
+          "id": "8u82OznmOK",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.48563954069495,
+            "y": 94.58216686970496,
+            "width": 9.797634747879174,
+            "height": 1.5746198701949736,
+            "rotation": 0,
+            "rectanglelabels": [
+              "yeux_enfonces"
+            ]
+          },
+          "id": "CfHzxVu8LC",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.765571962063014,
+            "y": 96.47171071393895,
+            "width": 9.237769905143217,
+            "height": 1.6795945282078577,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fontanelle_deprimee"
+            ]
+          },
+          "id": "_Onx0-b0t_",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "created_username": " morlaye.cisse@uadb.edu.sn, 2",
+      "created_ago": "0 minutes",
+      "completed_by": {
+        "id": 2,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "morlaye.cisse@uadb.edu.sn",
+        "initials": "mo"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2026-04-02T21:50:36.026100Z",
+      "updated_at": "2026-04-02T21:50:36.028236Z",
+      "draft_created_at": "2026-04-02T21:27:35.813359Z",
+      "lead_time": 2037.442,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 946,
+      "project": 2,
+      "updated_by": 2,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+}

@@ -1,0 +1,859 @@
+{
+  "id": 947,
+  "data": {
+    "image": "/data/upload/2/86ab84ee-redresse_CamScanner_20-03-2026_10.59_4.jpg"
+  },
+  "annotations": [
+    {
+      "id": 418,
+      "result": [
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 78.79403827357542,
+            "y": 0.13161587684895673,
+            "width": 15.969393057673429,
+            "height": 2.6323175369791345,
+            "rotation": 0,
+            "rectanglelabels": [
+              "vomissements"
+            ]
+          },
+          "id": "EPRGd-ab1h",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.46805626326332,
+            "y": 1.5793905221874807,
+            "width": 34.22012798072874,
+            "height": 2.2374699064322647,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_vomissements"
+            ]
+          },
+          "id": "DCZ5_IP_6j",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 50.54049670999938,
+            "y": 4.080092182317658,
+            "width": 28.078053727777437,
+            "height": 1.5793905221874809,
+            "rotation": 0,
+            "rectanglelabels": [
+              "moment_vomissements"
+            ]
+          },
+          "id": "yooesFjiUm",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 52.295375067985475,
+            "y": 6.185946211900966,
+            "width": 26.147687533992737,
+            "height": 1.974238152734351,
+            "rotation": 0,
+            "rectanglelabels": [
+              "couleur_vomissements"
+            ]
+          },
+          "id": "DGWhAdjd5o",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.72502402942291,
+            "y": 8.451051800742025,
+            "width": 25.477613989548164,
+            "height": 2.5008553608972166,
+            "rotation": 1.958067429233381,
+            "rectanglelabels": [
+              "vomissements_en_jet"
+            ]
+          },
+          "id": "9-GlJaAdiw",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 77.41672473068348,
+            "y": 11.841539183579123,
+            "width": 22.461673063997477,
+            "height": 3.167514586947983,
+            "rotation": 4.611999774126446,
+            "rectanglelabels": [
+              "crises_convulsives"
+            ]
+          },
+          "id": "RJ9ckJsbFK",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.38638007358446,
+            "y": 15.407570884576275,
+            "width": 25.445736190798268,
+            "height": 2.36908578328122,
+            "rotation": 3.1221304621158197,
+            "rectanglelabels": [
+              "nombre_crises"
+            ]
+          },
+          "id": "FiP-L2Ww4T",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.53449739945395,
+            "y": 17.316941463002518,
+            "width": 26.849638877187164,
+            "height": 2.2374699064322647,
+            "rotation": 1.0708244547864183,
+            "rectanglelabels": [
+              "duree_crise"
+            ]
+          },
+          "id": "x5l8QA__9T",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 69.28060032161214,
+            "y": 20.122822852827756,
+            "width": 20.356588952638653,
+            "height": 2.3690857832812218,
+            "rotation": 4.085616779974259,
+            "rectanglelabels": [
+              "moment_crises"
+            ]
+          },
+          "id": "H1oxc1Bqkw",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.45976939340186,
+            "y": 25.928327739244473,
+            "width": 4.211708059166611,
+            "height": 2.2374699064322634,
+            "rotation": 0,
+            "rectanglelabels": [
+              "spasmes_mouvement_brusque_incontrole"
+            ]
+          },
+          "id": "B_WEcO4O-8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.63525722920046,
+            "y": 28.56064527622361,
+            "width": 4.036220223368019,
+            "height": 1.711006399036435,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cris_pleurs"
+            ]
+          },
+          "id": "kim_V_Vy1Q",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.81074506499907,
+            "y": 31.061346936353786,
+            "width": 3.158781044374976,
+            "height": 1.7110063990364424,
+            "rotation": 0,
+            "rectanglelabels": [
+              "urine"
+            ]
+          },
+          "id": "jLjYGe9-Zn",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.81074506499907,
+            "y": 33.56204859648397,
+            "width": 3.158781044374976,
+            "height": 1.4477746453385194,
+            "rotation": 0,
+            "rectanglelabels": [
+              "morsure_langue"
+            ]
+          },
+          "id": "up_pIWC_sd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 75.45976939340186,
+            "y": 35.53628674921832,
+            "width": 3.6852445517707935,
+            "height": 1.7110063990364353,
+            "rotation": 0,
+            "rectanglelabels": [
+              "hypersalivation"
+            ]
+          },
+          "id": "yJSLIbc9Fg",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.3372085723949,
+            "y": 37.642140778801625,
+            "width": 2.4568297011805242,
+            "height": 1.8426222758853896,
+            "rotation": 0,
+            "rectanglelabels": [
+              "respiration_bruyante_crise"
+            ]
+          },
+          "id": "8zFAc6uHAH",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.1617207365963,
+            "y": 40.142842438931794,
+            "width": 2.63231753697913,
+            "height": 1.7110063990364495,
+            "rotation": 0,
+            "rectanglelabels": [
+              "fontanelle_gonflee"
+            ]
+          },
+          "id": "OPmjW7x3WD",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.1617207365963,
+            "y": 42.248696468515114,
+            "width": 2.80780537277775,
+            "height": 1.8426222758853896,
+            "rotation": 0,
+            "rectanglelabels": [
+              "cou_tordu"
+            ]
+          },
+          "id": "u-yVb9Mu8g",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.3372085723949,
+            "y": 44.74939812864528,
+            "width": 2.6323175369791443,
+            "height": 1.4477746453385338,
+            "rotation": 0,
+            "rectanglelabels": [
+              "corps_raidi"
+            ]
+          },
+          "id": "wcpYCAbM1x",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.68818424399213,
+            "y": 46.72363628137964,
+            "width": 2.2813418653819184,
+            "height": 1.7110063990364353,
+            "rotation": 0,
+            "rectanglelabels": [
+              "jambes_tendues"
+            ]
+          },
+          "id": "CDa8-U1RBd",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.3372085723949,
+            "y": 49.09272206466086,
+            "width": 2.4568297011805242,
+            "height": 1.8426222758853896,
+            "rotation": 0,
+            "rectanglelabels": [
+              "jambes_pliees"
+            ]
+          },
+          "id": "JpdeKZiwJ_",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.3372085723949,
+            "y": 51.593423724791045,
+            "width": 2.4568297011805242,
+            "height": 1.4477746453385265,
+            "rotation": 0,
+            "rectanglelabels": [
+              "bras_tendus"
+            ]
+          },
+          "id": "5BiD6gO8z0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.51269640819352,
+            "y": 53.83089363122331,
+            "width": 2.4568297011805242,
+            "height": 1.4477746453385123,
+            "rotation": 0,
+            "rectanglelabels": [
+              "bras_plies"
+            ]
+          },
+          "id": "dNSUabKq2x",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.3372085723949,
+            "y": 55.93674766080661,
+            "width": 2.6323175369791443,
+            "height": 1.7110063990364353,
+            "rotation": 0,
+            "rectanglelabels": [
+              "poings_fermes"
+            ]
+          },
+          "id": "BRM8Qnn57B",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.51269640819352,
+            "y": 57.91098581354096,
+            "width": 2.63231753697913,
+            "height": 1.7110063990364424,
+            "rotation": 0,
+            "rectanglelabels": [
+              "bouche_fermee_ou_crispee"
+            ]
+          },
+          "id": "SnyBiqt4zg",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.51269640819352,
+            "y": 60.28007159682218,
+            "width": 2.4568297011805242,
+            "height": 1.579390522187488,
+            "rotation": 0,
+            "rectanglelabels": [
+              "perte_connaissance"
+            ]
+          },
+          "id": "5dXSScYO3M",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.86367207979073,
+            "y": 62.649157380103404,
+            "width": 2.2813418653819184,
+            "height": 1.5793905221874809,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_perte_moins_1h"
+            ]
+          },
+          "id": "rX-Tx96iUu",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 76.68818424399213,
+            "y": 64.62339553283776,
+            "width": 2.63231753697913,
+            "height": 1.5793905221874809,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_perte_plus_1h"
+            ]
+          },
+          "id": "yYvcGcto8O",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 77.91659909458237,
+            "y": 66.86086543927001,
+            "width": 21.76049163902752,
+            "height": 2.500701660130171,
+            "rotation": 0,
+            "rectanglelabels": [
+              "epilepsie"
+            ]
+          },
+          "id": "zRDz5INra-",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 53.69927775437434,
+            "y": 68.83510359200437,
+            "width": 21.409515967430288,
+            "height": 2.1058540295832984,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_crises"
+            ]
+          },
+          "id": "_F3-dIVqG_",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 13.688051192291523,
+            "y": 71.33580525213449,
+            "width": 12.986099849097057,
+            "height": 2.3690857832812418,
+            "rotation": 0,
+            "rectanglelabels": [
+              "soigne_oui_non"
+            ]
+          },
+          "id": "JYm5f61Bew",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 13.863539028090113,
+            "y": 73.83650691226471,
+            "width": 12.635124177499838,
+            "height": 2.2374699064323034,
+            "rotation": 0,
+            "rectanglelabels": [
+              "soigne_oui_non"
+            ]
+          },
+          "id": "VHoyuWtzml",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 43.69647111385363,
+            "y": 72.25711639007724,
+            "width": 31.412322607950998,
+            "height": 2.63231753697913,
+            "rotation": 0,
+            "rectanglelabels": [
+              "lieu_soin_epilepsie"
+            ]
+          },
+          "id": "8PTKyJ_iX3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 77.56562342298517,
+            "y": 79.89083724731674,
+            "width": 22.43437657701483,
+            "height": 2.7639334138280844,
+            "rotation": 0,
+            "rectanglelabels": [
+              "signes_neurologiques_contexte_crises"
+            ]
+          },
+          "id": "PG-ehpWt01",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 12.986099849097062,
+            "y": 84.36577706018127,
+            "width": 11.231221491110981,
+            "height": 2.2374699064323043,
+            "rotation": 0,
+            "rectanglelabels": [
+              "perte_connaissance_coma"
+            ]
+          },
+          "id": "kkWzQVFni8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.82464521590202,
+            "y": 85.81355170551997,
+            "width": 35.448542831318974,
+            "height": 1.711006399036272,
+            "rotation": 0,
+            "rectanglelabels": [
+              "moment_perte_connaissance"
+            ]
+          },
+          "id": "fAtCaZO1z7",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 56.33159529135349,
+            "y": 88.44586924249892,
+            "width": 29.306468578367678,
+            "height": 1.4477746453385265,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_perte_connaissance_coma"
+            ]
+          },
+          "id": "HZBqtl3dfR",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 13.16158768489567,
+            "y": 88.70910099619682,
+            "width": 11.933172834305411,
+            "height": 2.105854029583386,
+            "rotation": 0,
+            "rectanglelabels": [
+              "perte_connaissance_coma"
+            ]
+          },
+          "id": "v4G-jHEe4P",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 14.390002535485936,
+            "y": 93.18404080906136,
+            "width": 9.827318804722102,
+            "height": 2.3690857832812355,
+            "rotation": 0,
+            "rectanglelabels": [
+              "paralysie"
+            ]
+          },
+          "id": "L6UPKMde3o",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 14.039026863888719,
+            "y": 97.13251711453007,
+            "width": 10.880245819513757,
+            "height": 2.8516780011603515,
+            "rotation": 0,
+            "rectanglelabels": [
+              "paralysie"
+            ]
+          },
+          "id": "xgOv6WkMhq",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.73549797774232,
+            "y": 94.236967823853,
+            "width": 37.90537253249952,
+            "height": 2.1058540295833548,
+            "rotation": 0,
+            "rectanglelabels": [
+              "parties_paralysie"
+            ]
+          },
+          "id": "2r3SKjKKbk",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1200,
+          "original_height": 1600,
+          "image_rotation": 0,
+          "value": {
+            "x": 43.69647111385364,
+            "y": 96.86928536083215,
+            "width": 30.359395593159334,
+            "height": 1.5793905221874762,
+            "rotation": 0,
+            "rectanglelabels": [
+              "duree_paralysie"
+            ]
+          },
+          "id": "xeihkyRhd4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "created_username": " morlaye.cisse@uadb.edu.sn, 2",
+      "created_ago": "0 minutes",
+      "completed_by": {
+        "id": 2,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "morlaye.cisse@uadb.edu.sn",
+        "initials": "mo"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2026-04-02T22:15:13.960186Z",
+      "updated_at": "2026-04-02T22:15:13.960186Z",
+      "draft_created_at": "2026-04-02T21:55:23.451163Z",
+      "lead_time": 1223.804,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 947,
+      "project": 2,
+      "updated_by": 2,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+}
